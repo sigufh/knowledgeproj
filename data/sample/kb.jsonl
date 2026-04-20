@@ -1,0 +1,12 @@
+{"entity_id":"E_PER_MA_YUN","name":"马云","aliases":["Jack Ma"],"type":"PER","description":"阿里巴巴集团创始人，企业家"}
+{"entity_id":"E_ORG_ALIBABA","name":"阿里巴巴集团","aliases":["阿里巴巴","Alibaba"],"type":"ORG","description":"中国互联网公司，总部位于杭州"}
+{"entity_id":"E_ORG_TENCENT","name":"腾讯","aliases":["腾讯公司","Tencent"],"type":"ORG","description":"中国互联网公司，总部位于深圳"}
+{"entity_id":"E_LOC_HANGZHOU","name":"杭州","aliases":["杭州市"],"type":"LOC","description":"中国浙江省省会"}
+{"entity_id":"E_LOC_SHENZHEN","name":"深圳","aliases":["深圳市"],"type":"LOC","description":"中国广东省城市"}
+{"entity_id":"E_ORG_APPLE","name":"苹果公司","aliases":["苹果","Apple"],"type":"ORG","description":"美国科技公司，发布iPhone等产品"}
+{"entity_id":"E_PROD_IPHONE","name":"iPhone","aliases":["苹果手机"],"type":"PROD","description":"苹果公司发布的智能手机产品线"}
+{"entity_id":"E_PER_STEVE_JOBS","name":"史蒂夫·乔布斯","aliases":["乔布斯","Steve Jobs"],"type":"PER","description":"苹果公司联合创始人"}
+{"entity_id":"E_ORG_XIAOMI","name":"小米集团","aliases":["小米"],"type":"ORG","description":"中国科技公司"}
+{"entity_id":"E_PER_LEI_JUN","name":"雷军","aliases":[],"type":"PER","description":"小米集团创始人"}
+{"entity_id":"E_LOC_USA","name":"美国","aliases":["美利坚合众国"],"type":"LOC","description":"北美洲国家"}
+{"entity_id":"E_ORG_TESLA","name":"特斯拉","aliases":["Tesla"],"type":"ORG","description":"美国电动车公司"}

@@ -1,0 +1,3 @@
+{"text":"马化腾创办了腾讯。","entities":[{"start":0,"end":3,"label":"PER"},{"start":6,"end":8,"label":"ORG"}]}
+{"text":"阿里巴巴总部在杭州。","entities":[{"start":0,"end":4,"label":"ORG"},{"start":7,"end":9,"label":"LOC"}]}
+{"text":"乔布斯是苹果公司创始人。","entities":[{"start":0,"end":3,"label":"PER"},{"start":4,"end":8,"label":"ORG"}]}

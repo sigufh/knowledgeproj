@@ -1,0 +1,8 @@
+{"text":"马云创立了阿里巴巴集团。","entities":[{"start":0,"end":2,"label":"PER"},{"start":5,"end":11,"label":"ORG"}]}
+{"text":"腾讯总部在深圳。","entities":[{"start":0,"end":2,"label":"ORG"},{"start":5,"end":7,"label":"LOC"}]}
+{"text":"周杰伦出生于台湾。","entities":[{"start":0,"end":3,"label":"PER"},{"start":6,"end":8,"label":"LOC"}]}
+{"text":"北京大学位于北京。","entities":[{"start":0,"end":4,"label":"ORG"},{"start":6,"end":8,"label":"LOC"}]}
+{"text":"苹果公司发布了iPhone。","entities":[{"start":0,"end":4,"label":"ORG"},{"start":7,"end":13,"label":"PROD"}]}
+{"text":"雷军担任小米集团董事长。","entities":[{"start":0,"end":2,"label":"PER"},{"start":4,"end":8,"label":"ORG"}]}
+{"text":"比尔盖茨创建了微软公司。","entities":[{"start":0,"end":4,"label":"PER"},{"start":7,"end":11,"label":"ORG"}]}
+{"text":"特斯拉总部位于美国。","entities":[{"start":0,"end":3,"label":"ORG"},{"start":7,"end":9,"label":"LOC"}]}

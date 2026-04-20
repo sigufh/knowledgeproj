@@ -1,0 +1,4 @@
+{"text":"马化腾创办了腾讯。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":6,"end":8,"label":"ORG"},"label":"FOUNDED"}
+{"text":"腾讯总部在深圳。","head":{"start":0,"end":2,"label":"ORG"},"tail":{"start":5,"end":7,"label":"LOC"},"label":"HEADQUARTERED_IN"}
+{"text":"乔布斯是苹果公司创始人。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":4,"end":8,"label":"ORG"},"label":"FOUNDED"}
+{"text":"杭州位于中国。","head":{"start":0,"end":2,"label":"LOC"},"tail":{"start":4,"end":6,"label":"LOC"},"label":"NO_REL"}

@@ -1,0 +1,8 @@
+{"text":"马云创立了阿里巴巴集团。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":5,"end":11,"label":"ORG"},"label":"FOUNDED"}
+{"text":"阿里巴巴集团总部在杭州。","head":{"start":0,"end":6,"label":"ORG"},"tail":{"start":9,"end":11,"label":"LOC"},"label":"HEADQUARTERED_IN"}
+{"text":"周杰伦出生于台湾。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":6,"end":8,"label":"LOC"},"label":"BORN_IN"}
+{"text":"苹果公司发布了iPhone。","head":{"start":0,"end":4,"label":"ORG"},"tail":{"start":7,"end":13,"label":"PROD"},"label":"PRODUCED"}
+{"text":"雷军担任小米集团董事长。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":4,"end":8,"label":"ORG"},"label":"WORKS_FOR"}
+{"text":"北京大学位于北京。","head":{"start":0,"end":4,"label":"ORG"},"tail":{"start":6,"end":8,"label":"LOC"},"label":"LOCATED_IN"}
+{"text":"马云和腾讯参加论坛。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":3,"end":5,"label":"ORG"},"label":"NO_REL"}
+{"text":"杭州属于浙江省。","head":{"start":0,"end":2,"label":"LOC"},"tail":{"start":4,"end":7,"label":"LOC"},"label":"NO_REL"}
