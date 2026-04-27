@@ -1,8 +1,10 @@
-{"text":"马云创立了阿里巴巴集团。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":5,"end":11,"label":"ORG"},"label":"FOUNDED"}
-{"text":"阿里巴巴集团总部在杭州。","head":{"start":0,"end":6,"label":"ORG"},"tail":{"start":9,"end":11,"label":"LOC"},"label":"HEADQUARTERED_IN"}
-{"text":"周杰伦出生于台湾。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":6,"end":8,"label":"LOC"},"label":"BORN_IN"}
-{"text":"苹果公司发布了iPhone。","head":{"start":0,"end":4,"label":"ORG"},"tail":{"start":7,"end":13,"label":"PROD"},"label":"PRODUCED"}
-{"text":"雷军担任小米集团董事长。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":4,"end":8,"label":"ORG"},"label":"WORKS_FOR"}
-{"text":"北京大学位于北京。","head":{"start":0,"end":4,"label":"ORG"},"tail":{"start":6,"end":8,"label":"LOC"},"label":"LOCATED_IN"}
-{"text":"马云和腾讯参加论坛。","head":{"start":0,"end":2,"label":"PER"},"tail":{"start":3,"end":5,"label":"ORG"},"label":"NO_REL"}
-{"text":"杭州属于浙江省。","head":{"start":0,"end":2,"label":"LOC"},"tail":{"start":4,"end":7,"label":"LOC"},"label":"NO_REL"}
+{"text": "1931年，图灵考入剑桥大学国王学院攻读本科，并获得了数学一等荣誉。", "head": {"start": 6, "end": 8, "label": "PER"}, "tail": {"start": 10, "end": 18, "label": "ORG"}, "label": "STUDIED_AT"}
+{"text": "1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。", "head": {"start": 17, "end": 19, "label": "PER"}, "tail": {"start": 26, "end": 32, "label": "ORG"}, "label": "STUDIED_AT"}
+{"text": "从1938年9月起，图灵在英国密码破译组织政府密码和密码学校(GC&CS)兼职工作。", "head": {"start": 10, "end": 12, "label": "PER"}, "tail": {"start": 31, "end": 36, "label": "ORG"}, "label": "WORKED_FOR"}
+{"text": "他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。", "head": {"start": 14, "end": 21, "label": "PER"}, "tail": {"start": 32, "end": 39, "label": "PROD"}, "label": "CRACKED"}
+{"text": "期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器Bombe，一种可以找到恩尼格玛密码机设置的机电机器。", "head": {"start": 33, "end": 38, "label": "PROD"}, "tail": {"start": 45, "end": 52, "label": "PROD"}, "label": "NO_REL"}
+{"text": "），作为一种用于判定机器是否具有智能的测试方法，即图灵测试[5]。", "head": {"start": 25, "end": 27, "label": "PER"}, "tail": {"start": 25, "end": 29, "label": "PROD"}, "label": "PROPOSED"}
+{"text": "此外，图灵提出的著名的图灵机模型为现代计算机的逻辑工作方式奠定了基础。", "head": {"start": 3, "end": 5, "label": "PER"}, "tail": {"start": 11, "end": 14, "label": "PROD"}, "label": "PROPOSED"}
+{"text": "1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。", "head": {"start": 12, "end": 14, "label": "PER"}, "tail": {"start": 15, "end": 22, "label": "ORG"}, "label": "WORKED_FOR"}
+{"text": "[42]因此，尽管图灵在 1946 年被乔治六世国王任命为大英帝国勋章(OBE)，以表彰他在战时的服务，但他的工作多年来一直保密。", "head": {"start": 9, "end": 11, "label": "PER"}, "tail": {"start": 29, "end": 35, "label": "PROD"}, "label": "AWARDED"}
+{"text": "在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。", "head": {"start": 48, "end": 52, "label": "ORG"}, "tail": {"start": 80, "end": 85, "label": "PER"}, "label": "APOLOGIZED_TO"}

@@ -88,7 +88,7 @@ class _BertCRF(nn.Module):
         hidden_size = self.encoder.config.hidden_size
         self.dropout = nn.Dropout(0.1)
         self.classifier = nn.Linear(hidden_size, num_labels)
-        self.crf = CRF(num_labels=num_labels, batch_first=True)
+        self.crf = CRF(num_tags=num_labels, batch_first=True)
 
     def forward(
         self,
@@ -99,7 +99,9 @@ class _BertCRF(nn.Module):
     ):
         outputs = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
         emissions = self.classifier(self.dropout(outputs.last_hidden_state))
-        mask = (attention_mask.bool() & valid_mask.bool())
+        # CRF requires first timestep in each sequence to be valid.
+        # Use attention_mask for CRF, and keep valid_mask only for text-span mapping.
+        mask = attention_mask.bool()
 
         if labels is not None:
             nll = -self.crf(emissions, labels, mask=mask, reduction="mean")

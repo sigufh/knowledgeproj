@@ -1,4 +1,2 @@
-{"text":"马化腾创办了腾讯。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":6,"end":8,"label":"ORG"},"label":"FOUNDED"}
-{"text":"腾讯总部在深圳。","head":{"start":0,"end":2,"label":"ORG"},"tail":{"start":5,"end":7,"label":"LOC"},"label":"HEADQUARTERED_IN"}
-{"text":"乔布斯是苹果公司创始人。","head":{"start":0,"end":3,"label":"PER"},"tail":{"start":4,"end":8,"label":"ORG"},"label":"FOUNDED"}
-{"text":"杭州位于中国。","head":{"start":0,"end":2,"label":"LOC"},"tail":{"start":4,"end":6,"label":"LOC"},"label":"NO_REL"}
+{"text": "2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。", "head": {"start": 12, "end": 17, "label": "ORG"}, "tail": {"start": 46, "end": 51, "label": "PER"}, "label": "PARDONED"}
+{"text": "艾伦·麦席森·图灵，OBE，FRS（英语：Alan Mathison Turing，又译阿兰·图灵，Turing也常翻译成涂林或者杜林，1912年6月23日—1954年6月7日），英国计算机科学家、数学家、逻辑学家、密码分析学家和理论生物学家，他被誉为计算机科学与人工智能之父。", "head": {"start": 0, "end": 9, "label": "PER"}, "tail": {"start": 90, "end": 92, "label": "LOC"}, "label": "NO_REL"}

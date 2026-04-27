@@ -1,8 +1,12 @@
-{"text":"马云创立了阿里巴巴集团。","entities":[{"start":0,"end":2,"label":"PER"},{"start":5,"end":11,"label":"ORG"}]}
-{"text":"腾讯总部在深圳。","entities":[{"start":0,"end":2,"label":"ORG"},{"start":5,"end":7,"label":"LOC"}]}
-{"text":"周杰伦出生于台湾。","entities":[{"start":0,"end":3,"label":"PER"},{"start":6,"end":8,"label":"LOC"}]}
-{"text":"北京大学位于北京。","entities":[{"start":0,"end":4,"label":"ORG"},{"start":6,"end":8,"label":"LOC"}]}
-{"text":"苹果公司发布了iPhone。","entities":[{"start":0,"end":4,"label":"ORG"},{"start":7,"end":13,"label":"PROD"}]}
-{"text":"雷军担任小米集团董事长。","entities":[{"start":0,"end":2,"label":"PER"},{"start":4,"end":8,"label":"ORG"}]}
-{"text":"比尔盖茨创建了微软公司。","entities":[{"start":0,"end":4,"label":"PER"},{"start":7,"end":11,"label":"ORG"}]}
-{"text":"特斯拉总部位于美国。","entities":[{"start":0,"end":3,"label":"ORG"},{"start":7,"end":9,"label":"LOC"}]}
+{"text": "艾伦·麦席森·图灵，OBE，FRS（英语：Alan Mathison Turing，又译阿兰·图灵，Turing也常翻译成涂林或者杜林，1912年6月23日—1954年6月7日），英国计算机科学家、数学家、逻辑学家、密码分析学家和理论生物学家，他被誉为计算机科学与人工智能之父。", "entities": [{"start": 0, "end": 9, "label": "PER"}, {"start": 21, "end": 41, "label": "PER"}, {"start": 44, "end": 49, "label": "PER"}, {"start": 90, "end": 92, "label": "LOC"}]}
+{"text": "期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器Bombe，一种可以找到恩尼格玛密码机设置的机电机器。", "entities": [{"start": 33, "end": 38, "label": "PROD"}, {"start": 45, "end": 52, "label": "PROD"}]}
+{"text": "），作为一种用于判定机器是否具有智能的测试方法，即图灵测试[5]。", "entities": [{"start": 25, "end": 29, "label": "PROD"}, {"start": 25, "end": 27, "label": "PER"}]}
+{"text": "此外，图灵提出的著名的图灵机模型为现代计算机的逻辑工作方式奠定了基础。", "entities": [{"start": 3, "end": 5, "label": "PER"}, {"start": 11, "end": 14, "label": "PROD"}]}
+{"text": "图灵的父亲朱利斯·麦席森·图灵（Julius Mathison Turing）是一名英属印度的公务员。", "entities": [{"start": 5, "end": 15, "label": "PER"}, {"start": 16, "end": 38, "label": "PER"}, {"start": 42, "end": 46, "label": "LOC"}]}
+{"text": "六岁的时候，他的父母为他在一间叫圣迈克尔（St. Michael's）的日间学校注册。", "entities": [{"start": 16, "end": 20, "label": "ORG"}, {"start": 21, "end": 32, "label": "ORG"}]}
+{"text": "女校长很快就注意到他的才能，随后马尔伯勒学院的许多教育家也注意到这点。", "entities": [{"start": 16, "end": 22, "label": "ORG"}]}
+{"text": "1926年，他十三岁的时候考入在多塞特郡的舍伯恩学校。", "entities": [{"start": 21, "end": 26, "label": "ORG"}]}
+{"text": "图灵坚决要上第一天的课，于是他独自从南安普顿骑了六十英哩的自行车去上学，途中还在一间旅社度过一宵。", "entities": [{"start": 0, "end": 2, "label": "PER"}, {"start": 18, "end": 22, "label": "LOC"}]}
+{"text": "1931年，图灵考入剑桥大学国王学院攻读本科，并获得了数学一等荣誉。", "entities": [{"start": 6, "end": 8, "label": "PER"}, {"start": 10, "end": 18, "label": "ORG"}]}
+{"text": "1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。", "entities": [{"start": 17, "end": 19, "label": "PER"}, {"start": 26, "end": 32, "label": "ORG"}, {"start": 62, "end": 96, "label": "PROD"}]}
+{"text": "在第二次世界大战期间，图灵是布莱切利庄园破解德国密码的主要参与者。", "entities": [{"start": 11, "end": 13, "label": "PER"}, {"start": 14, "end": 20, "label": "LOC"}]}

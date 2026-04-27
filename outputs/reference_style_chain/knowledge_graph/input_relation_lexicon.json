@@ -1,0 +1,190 @@
+[
+  {
+    "relation_id": "R_REPUTED_AS",
+    "label_zh": "被誉为",
+    "label_en": "REPUTED_AS",
+    "aliases": [
+      "被誉为"
+    ]
+  },
+  {
+    "relation_id": "R_PROPOSED",
+    "label_zh": "提出",
+    "label_en": "PROPOSED",
+    "aliases": [
+      "提出"
+    ]
+  },
+  {
+    "relation_id": "R_DESIGNED",
+    "label_zh": "设计",
+    "label_en": "DESIGNED",
+    "aliases": [
+      "设计",
+      "改进",
+      "建造",
+      "开发",
+      "制作"
+    ]
+  },
+  {
+    "relation_id": "R_WROTE",
+    "label_zh": "撰写",
+    "label_en": "WROTE",
+    "aliases": [
+      "写了",
+      "写过",
+      "题为"
+    ]
+  },
+  {
+    "relation_id": "R_PUBLISHED",
+    "label_zh": "发表",
+    "label_en": "PUBLISHED",
+    "aliases": [
+      "发表",
+      "出版"
+    ]
+  },
+  {
+    "relation_id": "R_STUDIED_AT",
+    "label_zh": "就读于",
+    "label_en": "STUDIED_AT",
+    "aliases": [
+      "考入",
+      "攻读",
+      "注册"
+    ]
+  },
+  {
+    "relation_id": "R_GRADUATED_FROM",
+    "label_zh": "毕业于",
+    "label_en": "GRADUATED_FROM",
+    "aliases": [
+      "毕业",
+      "学位"
+    ]
+  },
+  {
+    "relation_id": "R_WORKED_FOR",
+    "label_zh": "任职于",
+    "label_en": "WORKED_FOR",
+    "aliases": [
+      "兼职工作",
+      "成为",
+      "副主任"
+    ]
+  },
+  {
+    "relation_id": "R_WORKED_ON",
+    "label_zh": "负责研究",
+    "label_en": "WORKED_ON",
+    "aliases": [
+      "负责"
+    ]
+  },
+  {
+    "relation_id": "R_CRACKED",
+    "label_zh": "破译",
+    "label_en": "CRACKED",
+    "aliases": [
+      "破解",
+      "破译",
+      "密码分析"
+    ]
+  },
+  {
+    "relation_id": "R_FATHER",
+    "label_zh": "父亲",
+    "label_en": "FATHER",
+    "aliases": [
+      "父亲"
+    ]
+  },
+  {
+    "relation_id": "R_MOTHER",
+    "label_zh": "母亲",
+    "label_en": "MOTHER",
+    "aliases": [
+      "母亲"
+    ]
+  },
+  {
+    "relation_id": "R_INVITED",
+    "label_zh": "聘请",
+    "label_en": "INVITED",
+    "aliases": [
+      "聘请"
+    ]
+  },
+  {
+    "relation_id": "R_NAMED_AFTER",
+    "label_zh": "以…命名",
+    "label_en": "NAMED_AFTER",
+    "aliases": [
+      "为名"
+    ]
+  },
+  {
+    "relation_id": "R_APOLOGIZED_TO",
+    "label_zh": "公开道歉",
+    "label_en": "APOLOGIZED_TO",
+    "aliases": [
+      "公开道歉",
+      "道歉"
+    ]
+  },
+  {
+    "relation_id": "R_PARDONED",
+    "label_zh": "赦免",
+    "label_en": "PARDONED",
+    "aliases": [
+      "赦免"
+    ]
+  },
+  {
+    "relation_id": "R_PERSECUTED",
+    "label_zh": "迫害",
+    "label_en": "PERSECUTED",
+    "aliases": [
+      "迫害",
+      "起诉"
+    ]
+  },
+  {
+    "relation_id": "R_CONVICTED",
+    "label_zh": "定罪",
+    "label_en": "CONVICTED",
+    "aliases": [
+      "定罪",
+      "被控"
+    ]
+  },
+  {
+    "relation_id": "R_BORN_IN",
+    "label_zh": "出生于",
+    "label_en": "BORN_IN",
+    "aliases": [
+      "出生",
+      "生下"
+    ]
+  },
+  {
+    "relation_id": "R_LIVED_IN",
+    "label_zh": "居住于",
+    "label_en": "LIVED_IN",
+    "aliases": [
+      "住在",
+      "同住"
+    ]
+  },
+  {
+    "relation_id": "R_COLLABORATED_WITH",
+    "label_zh": "合作",
+    "label_en": "COLLABORATED_WITH",
+    "aliases": [
+      "一起",
+      "合作"
+    ]
+  }
+]

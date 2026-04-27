@@ -1,0 +1,55 @@
+﻿main_entity,entity_type,mention_count,mentions,source_file,normalized_entity,aliases,section_titles,merged_entities,disambiguation_confidence,disambiguation_method,disambiguation_basis
+艾伦·图灵,PER,65,图灵 | Alan Mathison Turing | 阿兰·图灵,input.txt,E_PER_TURING,图灵 | Alan Mathison Turing | 阿兰·图灵,全文 | 孩童和年轻时代 | 剑桥大学国王学院的电脑房现在以图灵为名 | 密码分析 | 在布莱切利庄园的图灵石像[45] | 图案形成和数理生物学的研究 | 迫害和逝世 | 政府的道歉和平反,图灵 | Alan Mathison Turing | 阿兰·图灵,0.71711,entity_linker_grouping,entity_id=E_PER_TURING; mentions=65; avg_link_score=0.7171
+英国,LOC,13,英国,input.txt,E_LOC_UK,英国,全文 | 孩童和年轻时代 | 剑桥大学国王学院的电脑房现在以图灵为名 | 密码分析 | 迫害和逝世 | 政府的道歉和平反,英国,0.671863,entity_linker_grouping,entity_id=E_LOC_UK; mentions=13; avg_link_score=0.6719
+图灵机,PROD,8,图灵机,input.txt,E_PROD_TM,图灵机,全文 | 剑桥大学国王学院的电脑房现在以图灵为名,图灵机,0.709511,entity_linker_grouping,entity_id=E_PROD_TM; mentions=8; avg_link_score=0.7095
+恩尼格玛密码机,PROD,7,恩尼格玛密码机 | 恩尼格玛,input.txt,E_PROD_ENIGMA,恩尼格玛密码机 | 恩尼格玛,全文 | 密码分析,恩尼格玛密码机 | 恩尼格玛,0.699866,entity_linker_grouping,entity_id=E_PROD_ENIGMA; mentions=7; avg_link_score=0.6999
+布莱切利庄园,LOC,5,布莱切利庄园 | 布莱切利,input.txt,E_LOC_BLETCHLEY,布莱切利庄园 | 布莱切利,密码分析 | 在布莱切利庄园的图灵石像[45],布莱切利庄园 | 布莱切利,0.698996,entity_linker_grouping,entity_id=E_LOC_BLETCHLEY; mentions=5; avg_link_score=0.6990
+GC&CS,ORG,4,政府密码和密码学校 | GC&CS,input.txt,E_ORG_GCCS,政府密码和密码学校 | GC&CS,密码分析,政府密码和密码学校 | GC&CS,0.700364,entity_linker_grouping,entity_id=E_ORG_GCCS; mentions=4; avg_link_score=0.7004
+图灵测试,PROD,4,图灵测试,input.txt,E_PROD_TT,图灵测试,全文 | 在布莱切利庄园的图灵石像[45],图灵测试,0.698898,entity_linker_grouping,entity_id=E_PROD_TT; mentions=4; avg_link_score=0.6989
+英国政府,ORG,4,英国政府,input.txt,E_ORG_GOV_UK,英国政府,全文 | 政府的道歉和平反,英国政府,0.679056,entity_linker_grouping,entity_id=E_ORG_GOV_UK; mentions=4; avg_link_score=0.6791
+英属印度,LOC,4,印度,input.txt,E_LOC_INDIA,印度,孩童和年轻时代,印度,0.670654,entity_linker_grouping,entity_id=E_LOC_INDIA; mentions=4; avg_link_score=0.6707
+GCHQ,ORG,3,GCHQ,input.txt,E_ORG_GCHQ,GCHQ,密码分析,GCHQ,0.722573,entity_linker_grouping,entity_id=E_ORG_GCHQ; mentions=3; avg_link_score=0.7226
+Thomas Richards,PER,3,汤姆·理查兹 | 托马斯·理查兹 | Thomas Richards,input.txt,E_PER_RICHARDS,汤姆·理查兹 | 托马斯·理查兹 | Thomas Richards,全文 | 密码分析,汤姆·理查兹 | 托马斯·理查兹 | Thomas Richards,0.733103,entity_linker_grouping,entity_id=E_PER_RICHARDS; mentions=3; avg_link_score=0.7331
+军情六处,ORG,3,军情六处,input.txt,E_ORG_MI6,军情六处,密码分析,军情六处,0.675675,entity_linker_grouping,entity_id=E_ORG_MI6; mentions=3; avg_link_score=0.6757
+剑桥大学国王学院,ORG,3,国王学院,input.txt,E_ORG_CAMBRIDGE_KINGS,国王学院,剑桥大学国王学院的电脑房现在以图灵为名,国王学院,0.683846,entity_linker_grouping,entity_id=E_ORG_CAMBRIDGE_KINGS; mentions=3; avg_link_score=0.6838
+大英帝国勋章,PROD,3,OBE | 大英帝国勋章,input.txt,E_PROD_OBE,OBE | 大英帝国勋章,全文 | 在布莱切利庄园的图灵石像[45],OBE | 大英帝国勋章,0.668665,entity_linker_grouping,entity_id=E_PROD_OBE; mentions=3; avg_link_score=0.6687
+阿尔伯特·爱因斯坦,PER,3,阿尔伯特·爱因斯坦 | 爱因斯坦,input.txt,E_PER_EINSTEIN,阿尔伯特·爱因斯坦 | 爱因斯坦,孩童和年轻时代,阿尔伯特·爱因斯坦 | 爱因斯坦,0.734479,entity_linker_grouping,entity_id=E_PER_EINSTEIN; mentions=3; avg_link_score=0.7345
+ACE,PROD,2,自动计算引擎 | ACE,input.txt,E_PROD_ACE,自动计算引擎 | ACE,在布莱切利庄园的图灵石像[45],自动计算引擎 | ACE,0.688417,entity_linker_grouping,entity_id=E_PROD_ACE; mentions=2; avg_link_score=0.6884
+Ethel Sara Stoney,PER,2,Ethel Sara Stoney,input.txt,E_PER_ETHEL,Ethel Sara Stoney,孩童和年轻时代 | 迫害和逝世,Ethel Sara Stoney,0.739556,entity_linker_grouping,entity_id=E_PER_ETHEL; mentions=2; avg_link_score=0.7396
+Hut 8,ORG,2,Hut 8 | 小屋8,input.txt,E_ORG_HUT8,Hut 8 | 小屋8,全文 | 密码分析,Hut 8 | 小屋8,0.72505,entity_linker_grouping,entity_id=E_ORG_HUT8; mentions=2; avg_link_score=0.7250
+St. Michael's,ORG,2,圣迈克尔 | St. Michael,input.txt,E_ORG_ST_MICHAEL,圣迈克尔 | St. Michael,孩童和年轻时代,圣迈克尔 | St. Michael,0.732832,entity_linker_grouping,entity_id=E_ORG_ST_MICHAEL; mentions=2; avg_link_score=0.7328
+伦敦,LOC,2,伦敦,input.txt,E_LOC_LONDON,伦敦,孩童和年轻时代 | 密码分析,伦敦,0.67228,entity_linker_grouping,entity_id=E_LOC_LONDON; mentions=2; avg_link_score=0.6723
+剑桥大学,ORG,2,剑桥大学,input.txt,剑桥大学,剑桥大学,剑桥大学国王学院的电脑房现在以图灵为名,剑桥大学,0.467179,entity_linker_grouping,entity_id=剑桥大学; mentions=2; avg_link_score=0.4672
+官方保密法,PROD,2,官方保密法,input.txt,官方保密法,官方保密法,密码分析,官方保密法,0.192859,entity_linker_grouping,entity_id=官方保密法; mentions=2; avg_link_score=0.1929
+形态发生的化学基础,PROD,2,形态发生的化学基础 | The Chemical Basis of Morphogenesis,input.txt,E_PROD_MORPH,形态发生的化学基础 | The Chemical Basis of Morphogenesis,图案形成和数理生物学的研究,形态发生的化学基础 | The Chemical Basis of Morphogenesis,0.739686,entity_linker_grouping,entity_id=E_PROD_MORPH; mentions=2; avg_link_score=0.7397
+朱利斯·麦席森·图灵,PER,2,朱利斯·麦席森·图灵 | Julius Mathison Turing,input.txt,E_PER_JULIUS,朱利斯·麦席森·图灵 | Julius Mathison Turing,孩童和年轻时代,朱利斯·麦席森·图灵 | Julius Mathison Turing,0.711658,entity_linker_grouping,entity_id=E_PER_JULIUS; mentions=2; avg_link_score=0.7117
+机器会思考吗,PROD,2,机器会思考吗 | Can Machines Think?,input.txt,E_PROD_CMT,机器会思考吗 | Can Machines Think?,全文,机器会思考吗 | Can Machines Think?,0.719968,entity_linker_grouping,entity_id=E_PROD_CMT; mentions=2; avg_link_score=0.7200
+第利温·诺克斯,PER,2,第利温·诺克斯 | 诺克斯,input.txt,E_PER_NOX,第利温·诺克斯 | 诺克斯,密码分析,第利温·诺克斯 | 诺克斯,0.693954,entity_linker_grouping,entity_id=E_PER_NOX; mentions=2; avg_link_score=0.6940
+计算机器和智能,PROD,2,计算机器和智能 | 计算机械和智能,input.txt,E_PROD_CMI,计算机器和智能 | 计算机械和智能,全文 | 在布莱切利庄园的图灵石像[45],计算机器和智能 | 计算机械和智能,0.730368,entity_linker_grouping,entity_id=E_PROD_CMI; mentions=2; avg_link_score=0.7304
+Asa Briggs,PER,1,Asa Briggs,input.txt,E_PER_ASA,Asa Briggs,密码分析,Asa Briggs,0.704625,entity_linker_grouping,entity_id=E_PER_ASA; mentions=1; avg_link_score=0.7046
+Bombe,PROD,1,Bombe,input.txt,E_PROD_BOMBE,Bombe,全文,Bombe,0.712939,entity_linker_grouping,entity_id=E_PROD_BOMBE; mentions=1; avg_link_score=0.7129
+ENIAC,PROD,1,ENIAC,input.txt,E_PROD_ENIAC,ENIAC,全文,ENIAC,0.692482,entity_linker_grouping,entity_id=E_PROD_ENIAC; mentions=1; avg_link_score=0.6925
+On Computable Numbers,PROD,1,On Computable Numbers,input.txt,E_PROD_OCN,On Computable Numbers,剑桥大学国王学院的电脑房现在以图灵为名,On Computable Numbers,0.739101,entity_linker_grouping,entity_id=E_PROD_OCN; mentions=1; avg_link_score=0.7391
+Ronald Lewin,PER,1,Ronald Lewin,input.txt,E_PER_LEWIN,Ronald Lewin,密码分析,Ronald Lewin,0.720785,entity_linker_grouping,entity_id=E_PER_LEWIN; mentions=1; avg_link_score=0.7208
+乔治六世国王,PER,1,乔治六世,input.txt,E_PER_GEORGE6,乔治六世,在布莱切利庄园的图灵石像[45],乔治六世,0.674793,entity_linker_grouping,entity_id=E_PER_GEORGE6; mentions=1; avg_link_score=0.6748
+伊丽莎白二世,PER,1,伊丽莎白二世,input.txt,E_PER_ELIZABETH2,伊丽莎白二世,政府的道歉和平反,伊丽莎白二世,0.67216,entity_linker_grouping,entity_id=E_PER_ELIZABETH2; mentions=1; avg_link_score=0.6722
+冯·诺依曼,PER,1,冯·诺依曼,input.txt,E_PER_VON_NEUMANN,冯·诺依曼,剑桥大学国王学院的电脑房现在以图灵为名,冯·诺依曼,0.712804,entity_linker_grouping,entity_id=E_PER_VON_NEUMANN; mentions=1; avg_link_score=0.7128
+国家物理实验室,ORG,1,国家物理实验室,input.txt,E_ORG_NPL,国家物理实验室,在布莱切利庄园的图灵石像[45],国家物理实验室,0.689773,entity_linker_grouping,entity_id=E_ORG_NPL; mentions=1; avg_link_score=0.6898
+在布莱奇利庄园,ORG,1,在布莱奇利庄园,input.txt,在布莱奇利庄园,在布莱奇利庄园,密码分析,在布莱奇利庄园,0.548996,entity_linker_grouping,entity_id=在布莱奇利庄园; mentions=1; avg_link_score=0.5490
+帕丁顿,LOC,1,帕丁顿,input.txt,E_LOC_PADDINGTON,帕丁顿,孩童和年轻时代,帕丁顿,0.704856,entity_linker_grouping,entity_id=E_LOC_PADDINGTON; mentions=1; avg_link_score=0.7049
+戈登·布朗,PER,1,英国首相戈登·布朗,input.txt,E_PER_BROWN,英国首相戈登·布朗,政府的道歉和平反,英国首相戈登·布朗,0.671268,entity_linker_grouping,entity_id=E_PER_BROWN; mentions=1; avg_link_score=0.6713
+新墨西哥州洛斯阿拉莫斯国家实验室,ORG,1,新墨西哥州洛斯阿拉莫斯国家实验室,input.txt,E_ORG_LANL,新墨西哥州洛斯阿拉莫斯国家实验室,全文,新墨西哥州洛斯阿拉莫斯国家实验室,0.706757,entity_linker_grouping,entity_id=E_ORG_LANL; mentions=1; avg_link_score=0.7068
+普林斯顿,LOC,1,普林斯顿,input.txt,普林斯顿,普林斯顿,剑桥大学国王学院的电脑房现在以图灵为名,普林斯顿,0.557804,entity_linker_grouping,entity_id=普林斯顿; mentions=1; avg_link_score=0.5578
+普林斯顿大学,ORG,1,普林斯顿大学,input.txt,E_ORG_PRINCETON,普林斯顿大学,剑桥大学国王学院的电脑房现在以图灵为名,普林斯顿大学,0.687804,entity_linker_grouping,entity_id=E_ORG_PRINCETON; mentions=1; avg_link_score=0.6878
+曼彻斯特一号,PROD,1,曼彻斯特一号,input.txt,E_PROD_M1,曼彻斯特一号,在布莱切利庄园的图灵石像[45],曼彻斯特一号,0.696758,entity_linker_grouping,entity_id=E_PROD_M1; mentions=1; avg_link_score=0.6968
+曼彻斯特大学计算机实验室,ORG,1,曼彻斯特大学计算机实验室,input.txt,E_ORG_UOM_CL,曼彻斯特大学计算机实验室,在布莱切利庄园的图灵石像[45],曼彻斯特大学计算机实验室,0.708845,entity_linker_grouping,entity_id=E_ORG_UOM_CL; mentions=1; avg_link_score=0.7088
+每日电讯报,ORG,1,每日电讯报,input.txt,E_ORG_DT,每日电讯报,政府的道歉和平反,每日电讯报,0.668726,entity_linker_grouping,entity_id=E_ORG_DT; mentions=1; avg_link_score=0.6687
+沃尔顿竞技俱乐部,ORG,1,沃尔顿竞技俱乐部,input.txt,E_ORG_WAC,沃尔顿竞技俱乐部,密码分析,沃尔顿竞技俱乐部,0.674897,entity_linker_grouping,entity_id=E_ORG_WAC; mentions=1; avg_link_score=0.6749
+洛斯阿拉莫斯象棋,PROD,1,洛斯阿拉莫斯象棋,input.txt,E_PROD_LA_CHESS,洛斯阿拉莫斯象棋,全文,洛斯阿拉莫斯象棋,0.710285,entity_linker_grouping,entity_id=E_PROD_LA_CHESS; mentions=1; avg_link_score=0.7103
+舍伯恩学校,ORG,1,舍伯恩学校,input.txt,E_ORG_SHERBORNE,舍伯恩学校,孩童和年轻时代,舍伯恩学校,0.699329,entity_linker_grouping,entity_id=E_ORG_SHERBORNE; mentions=1; avg_link_score=0.6993
+艾伦·图灵法案,PROD,1,艾伦·图灵法案,input.txt,E_PROD_TURING_ACT,艾伦·图灵法案,政府的道歉和平反,艾伦·图灵法案,0.698415,entity_linker_grouping,entity_id=E_PROD_TURING_ACT; mentions=1; avg_link_score=0.6984
+艾伦·图灵选集,PROD,1,艾伦·图灵选集,input.txt,艾伦·图灵选集,艾伦·图灵选集,图案形成和数理生物学的研究,艾伦·图灵选集,0.608777,entity_linker_grouping,entity_id=艾伦·图灵选集; mentions=1; avg_link_score=0.6088
+英国司法部,ORG,1,英国司法部,input.txt,E_ORG_MOJ_UK,英国司法部,政府的道歉和平反,英国司法部,0.673686,entity_linker_grouping,entity_id=E_ORG_MOJ_UK; mentions=1; avg_link_score=0.6737
+英国皇家海军,ORG,1,英国皇家海军,input.txt,E_ORG_NAVY_UK,英国皇家海军,密码分析,英国皇家海军,0.675043,entity_linker_grouping,entity_id=E_ORG_NAVY_UK; mentions=1; avg_link_score=0.6750
+解码纳粹秘密,PROD,1,Nova PBS纪录片《解码纳粹秘密》,input.txt,E_PROD_DECODE_NAZI,Nova PBS纪录片《解码纳粹秘密》,密码分析,Nova PBS纪录片《解码纳粹秘密》,0.696405,entity_linker_grouping,entity_id=E_PROD_DECODE_NAZI; mentions=1; avg_link_score=0.6964
+阿隆佐·邱奇,PER,1,比阿隆佐·邱奇,input.txt,E_PER_CHURCH,比阿隆佐·邱奇,剑桥大学国王学院的电脑房现在以图灵为名,比阿隆佐·邱奇,0.720776,entity_linker_grouping,entity_id=E_PER_CHURCH; mentions=1; avg_link_score=0.7208

@@ -1,0 +1,44 @@
+﻿head,head_id,relation,tail,tail_id,confidence,source,sentence
+艾伦·图灵,E_PER_TURING,被誉为,计算机科学与人工智能之父,,0.88,trigger_window,艾伦·麦席森·图灵，OBE，FRS（英语：Alan Mathison Turing，又译阿兰·图灵，Turing也常翻译成涂林或者杜林，1912年6月23日—1954年6月7日），英国计算机科学家、数学家、逻辑学家、密码分析学家和理论生物学家，他被誉为计算机科学与人工智能之父。
+Hut 8,E_ORG_HUT8,负责研究,德国海军密码分析,,0.88,trigger_window,二次世界大战期间，“Hut 8”小组，负责德国海军密码分析。
+艾伦·图灵,E_PER_TURING,设计,Bombe,E_PROD_BOMBE,0.97,trigger_window,期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器Bombe，一种可以找到恩尼格玛密码机设置的机电机器。
+艾伦·图灵,E_PER_TURING,撰写,计算机器和智能,E_PROD_CMI,0.95,trigger_window,图灵对于人工智能的发展有诸多贡献，例如图灵曾写过一篇名为《计算机器和智能》的论文，提问“机器会思考吗？
+艾伦·图灵,E_PER_TURING,撰写,机器会思考吗,E_PROD_CMT,0.93,pattern,图灵对于人工智能的发展有诸多贡献，例如图灵曾写过一篇名为《计算机器和智能》的论文，提问“机器会思考吗？
+艾伦·图灵,E_PER_TURING,提出,图灵机,E_PROD_TM,0.97,trigger_window,此外，图灵提出的著名的图灵机模型为现代计算机的逻辑工作方式奠定了基础。
+艾伦·图灵,E_PER_TURING,父亲,朱利斯·麦席森·图灵,E_PER_JULIUS,0.97,trigger_window,图灵的父亲朱利斯·麦席森·图灵（Julius Mathison Turing）是一名英属印度的公务员。
+艾伦·图灵,E_PER_TURING,母亲,Ethel Sara Stoney,E_PER_ETHEL,0.97,trigger_window,1911年，图灵的母亲Ethel Sara Stoney在英属印度怀了孕。
+艾伦·图灵,E_PER_TURING,出生于,帕丁顿,E_LOC_PADDINGTON,0.97,trigger_window,因为他们希望艾伦在英国出生，所以回到伦敦，住在帕丁顿，并在那里生下了艾伦。
+艾伦·图灵,E_PER_TURING,就读于,St. Michael's,E_ORG_ST_MICHAEL,0.92,structured_pattern,六岁的时候，他的父母为他在一间叫圣迈克尔（St. Michael's）的日间学校注册。
+艾伦·图灵,E_PER_TURING,就读于,舍伯恩学校,E_ORG_SHERBORNE,0.97,trigger_window,1926年，他十三岁的时候考入在多塞特郡的舍伯恩学校。
+剑桥大学国王学院,E_ORG_CAMBRIDGE_KINGS,以…命名,艾伦·图灵,E_PER_TURING,0.86,structured_pattern,剑桥大学国王学院的电脑房现在以图灵为名
+艾伦·图灵,E_PER_TURING,就读于,剑桥大学国王学院,E_ORG_CAMBRIDGE_KINGS,0.97,trigger_window,1931年，图灵考入剑桥大学国王学院攻读本科，并获得了数学一等荣誉。
+艾伦·图灵,E_PER_TURING,毕业于,剑桥大学国王学院,E_ORG_CAMBRIDGE_KINGS,0.89,cross_sentence,1934年他以优异成绩毕业。
+艾伦·图灵,E_PER_TURING,就读于,普林斯顿大学,E_ORG_PRINCETON,0.88,structured_pattern,1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。
+艾伦·图灵,E_PER_TURING,毕业于,普林斯顿大学,E_ORG_PRINCETON,0.89,cross_sentence,[16]1938年6月，获普林斯顿数学系博士学位；
+冯·诺依曼,E_PER_VON_NEUMANN,聘请,艾伦·图灵,E_PER_TURING,0.97,trigger_window,冯·诺依曼有意聘请图灵做他的博士后助理，但他谢绝后又回到了英国。
+艾伦·图灵,E_PER_TURING,任职于,GC&CS,E_ORG_GCCS,0.91,context_pattern,从1938年9月起，图灵在英国密码破译组织政府密码和密码学校(GC&CS)兼职工作。
+艾伦·图灵,E_PER_TURING,破译,恩尼格玛密码机,E_PROD_ENIGMA,0.97,trigger_window,他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。
+艾伦·图灵,E_PER_TURING,合作,第利温·诺克斯,E_PER_NOX,0.84,structured_pattern,他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。
+第利温·诺克斯,E_PER_NOX,任职于,GC&CS,E_ORG_GCCS,0.86,structured_pattern,他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。
+GC&CS,E_ORG_GCCS,破译,恩尼格玛密码机,E_PROD_ENIGMA,0.93,pattern,他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。
+艾伦·图灵,E_PER_TURING,任职于,英国皇家海军,E_ORG_NAVY_UK,0.9,structured_pattern,1939年图灵被英国皇家海军招聘，并在英国军情六处监督下从事对德国机密军事密码的破译工作。
+艾伦·图灵,E_PER_TURING,任职于,军情六处,E_ORG_MI6,0.91,context_pattern,1939年图灵被英国皇家海军招聘，并在英国军情六处监督下从事对德国机密军事密码的破译工作。
+艾伦·图灵,E_PER_TURING,撰写,The Applications of Probability to Cryptography,E_PROD_APC,0.95,trigger_window,"他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+GCHQ,E_ORG_GCHQ,继任于,GC&CS,E_ORG_GCCS,0.88,structured_pattern,"他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+艾伦·图灵,E_PER_TURING,撰写,Paper on Statistics of Repetitions,E_PROD_PSR,0.88,structured_pattern,"他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+艾伦·图灵,E_PER_TURING,获授,大英帝国勋章,E_PROD_OBE,0.93,structured_pattern,[42]因此，尽管图灵在 1946 年被乔治六世国王任命为大英帝国勋章(OBE)，以表彰他在战时的服务，但他的工作多年来一直保密。
+艾伦·图灵,E_PER_TURING,负责研究,ACE,E_PROD_ACE,0.97,trigger_window,1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。
+艾伦·图灵,E_PER_TURING,任职于,国家物理实验室,E_ORG_NPL,0.91,context_pattern,1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。
+国家物理实验室,E_ORG_NPL,负责研究,ACE,E_PROD_ACE,0.93,pattern,1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。
+艾伦·图灵,E_PER_TURING,任职于,曼彻斯特大学计算机实验室,E_ORG_UOM_CL,0.97,trigger_window,1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。
+艾伦·图灵,E_PER_TURING,负责研究,曼彻斯特一号,E_PROD_M1,0.97,trigger_window,1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。
+曼彻斯特大学计算机实验室,E_ORG_UOM_CL,负责研究,曼彻斯特一号,E_PROD_M1,0.93,pattern,1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。
+艾伦·图灵,E_PER_TURING,提出,图灵测试,E_PROD_TT,0.97,trigger_window,图灵在对人工智能的研究中，提出了一个叫做图灵测试的实验，尝试定出一个决定机器是否有感觉的标准。
+新墨西哥州洛斯阿拉莫斯国家实验室,E_ORG_LANL,设计,洛斯阿拉莫斯象棋,E_PROD_LA_CHESS,0.93,pattern,后来美国新墨西哥州洛斯阿拉莫斯国家实验室的研究组根据图灵的理论，在ENIAC上设计出世界上第一个电脑程序的国际象棋——洛斯阿拉莫斯象棋。
+艾伦·图灵,E_PER_TURING,发表,形态发生的化学基础,E_PROD_MORPH,0.95,trigger_window,他在1952年发表了一篇论文《形态发生的化学基础》（英语：The Chemical Basis of Morphogenesis）。
+英国政府,E_ORG_GOV_UK,迫害,艾伦·图灵,E_PER_TURING,0.97,trigger_window,在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。
+戈登·布朗,E_PER_BROWN,撰文于,每日电讯报,E_ORG_DT,0.88,structured_pattern,在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。
+英国政府,E_ORG_GOV_UK,公开道歉,艾伦·图灵,E_PER_TURING,0.94,structured_pattern,在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。
+英国政府,E_ORG_GOV_UK,定罪,艾伦·图灵,E_PER_TURING,0.93,pattern,在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。
+英国司法部,E_ORG_MOJ_UK,赦免,艾伦·图灵,E_PER_TURING,0.97,trigger_window,2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。
+伊丽莎白二世,E_PER_ELIZABETH2,赦免,艾伦·图灵,E_PER_TURING,0.93,pattern,2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。

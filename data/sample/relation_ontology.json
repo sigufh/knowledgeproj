@@ -1,0 +1,76 @@
+[
+  {
+    "relation_id": "R_STUDIED_AT",
+    "name_en": "STUDIED_AT",
+    "name_zh": "就读于",
+    "aliases": [
+      "考入",
+      "就读于",
+      "攻读"
+    ]
+  },
+  {
+    "relation_id": "R_WORKED_FOR",
+    "name_en": "WORKED_FOR",
+    "name_zh": "任职于",
+    "aliases": [
+      "任职",
+      "兼职工作",
+      "成为",
+      "负责"
+    ]
+  },
+  {
+    "relation_id": "R_CRACKED",
+    "name_en": "CRACKED",
+    "name_zh": "破译",
+    "aliases": [
+      "破解",
+      "破译",
+      "分析"
+    ]
+  },
+  {
+    "relation_id": "R_PROPOSED",
+    "name_en": "PROPOSED",
+    "name_zh": "提出",
+    "aliases": [
+      "提出"
+    ]
+  },
+  {
+    "relation_id": "R_AWARDED",
+    "name_en": "AWARDED",
+    "name_zh": "获授",
+    "aliases": [
+      "任命为",
+      "授予",
+      "获授"
+    ]
+  },
+  {
+    "relation_id": "R_APOLOGIZED_TO",
+    "name_en": "APOLOGIZED_TO",
+    "name_zh": "公开道歉",
+    "aliases": [
+      "公开道歉",
+      "道歉"
+    ]
+  },
+  {
+    "relation_id": "R_PARDONED",
+    "name_en": "PARDONED",
+    "name_zh": "赦免",
+    "aliases": [
+      "赦免"
+    ]
+  },
+  {
+    "relation_id": "R_REPUTED_AS",
+    "name_en": "REPUTED_AS",
+    "name_zh": "被誉为",
+    "aliases": [
+      "被誉为"
+    ]
+  }
+]

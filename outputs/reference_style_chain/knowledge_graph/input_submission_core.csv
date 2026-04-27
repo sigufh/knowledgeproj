@@ -1,0 +1,21 @@
+﻿head,relation,tail,confidence,source
+艾伦·图灵,出生于,帕丁顿,0.97,trigger_window
+艾伦·图灵,父亲,朱利斯·麦席森·图灵,0.97,trigger_window
+艾伦·图灵,母亲,Ethel Sara Stoney,0.97,trigger_window
+艾伦·图灵,就读于,舍伯恩学校,0.97,trigger_window
+艾伦·图灵,就读于,剑桥大学国王学院,0.97,trigger_window
+艾伦·图灵,就读于,St. Michael's,0.92,structured_pattern
+艾伦·图灵,毕业于,普林斯顿大学,0.89,cross_sentence
+艾伦·图灵,毕业于,剑桥大学国王学院,0.89,cross_sentence
+艾伦·图灵,负责研究,ACE,0.97,trigger_window
+艾伦·图灵,负责研究,曼彻斯特一号,0.97,trigger_window
+艾伦·图灵,破译,恩尼格玛密码机,0.97,trigger_window
+艾伦·图灵,任职于,曼彻斯特大学计算机实验室,0.97,trigger_window
+GC&CS,破译,恩尼格玛密码机,0.93,pattern
+国家物理实验室,负责研究,ACE,0.93,pattern
+艾伦·图灵,任职于,军情六处,0.91,context_pattern
+艾伦·图灵,任职于,GC&CS,0.91,context_pattern
+艾伦·图灵,提出,图灵机,0.97,trigger_window
+艾伦·图灵,提出,图灵测试,0.97,trigger_window
+艾伦·图灵,撰写,计算机器和智能,0.95,trigger_window
+艾伦·图灵,发表,形态发生的化学基础,0.95,trigger_window

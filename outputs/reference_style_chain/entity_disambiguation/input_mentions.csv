@@ -1,0 +1,194 @@
+﻿mention,entity_type,start,end,source_file,entity_id,kb_name,kb_type,link_score,normalized_entity,disambiguation_confidence,disambiguation_method,source
+图灵,PER,7,9,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+OBE,PROD,10,13,input.txt,E_PROD_OBE,大英帝国勋章,PROD,0.668665,大英帝国勋章,0.668665,char_tfidf_surface+context_rerank,kb_dict
+Alan Mathison Turing,PER,21,41,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+阿兰·图灵,PER,44,49,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,90,92,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,ner
+Hut 8,ORG,151,156,input.txt,E_ORG_HUT8,Hut 8,ORG,0.72505,Hut 8,0.72505,char_tfidf_surface+context_rerank,kb_dict
+Bombe,PROD,205,210,input.txt,E_PROD_BOMBE,Bombe,PROD,0.712939,Bombe,0.712939,char_tfidf_surface+context_rerank,ner
+恩尼格玛密码机,PROD,217,224,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,233,235,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,305,307,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,324,326,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+计算机器和智能,PROD,334,341,input.txt,E_PROD_CMI,计算机器和智能,PROD,0.730368,计算机器和智能,0.730368,char_tfidf_surface+context_rerank,kb_dict
+机器会思考吗,PROD,349,355,input.txt,E_PROD_CMT,机器会思考吗,PROD,0.719968,机器会思考吗,0.719968,char_tfidf_surface+context_rerank,kb_dict
+Can Machines Think?,PROD,358,377,input.txt,E_PROD_CMT,机器会思考吗,PROD,0.719968,机器会思考吗,0.719968,char_tfidf_surface+context_rerank,kb_dict
+图灵测试,PROD,402,406,input.txt,E_PROD_TT,图灵测试,PROD,0.698898,图灵测试,0.698898,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,426,428,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵机,PROD,434,437,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,460,462,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+英国政府,ORG,482,486,input.txt,E_ORG_GOV_UK,英国政府,ORG,0.679056,英国政府,0.679056,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,508,510,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+汤姆·理查兹,PER,596,602,input.txt,E_PER_RICHARDS,Thomas Richards,PER,0.733103,Thomas Richards,0.733103,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,619,621,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+朱利斯·麦席森·图灵,PER,624,634,input.txt,E_PER_JULIUS,朱利斯·麦席森·图灵,PER,0.711658,朱利斯·麦席森·图灵,0.711658,char_tfidf_surface+context_rerank,kb_dict
+Julius Mathison Turing,PER,635,657,input.txt,E_PER_JULIUS,朱利斯·麦席森·图灵,PER,0.711658,朱利斯·麦席森·图灵,0.711658,char_tfidf_surface+context_rerank,ner
+印度,LOC,663,665,input.txt,E_LOC_INDIA,英属印度,LOC,0.670654,英属印度,0.670654,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,676,678,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+Ethel Sara Stoney,PER,681,698,input.txt,E_PER_ETHEL,Ethel Sara Stoney,PER,0.739556,Ethel Sara Stoney,0.739556,char_tfidf_surface+context_rerank,kb_dict
+印度,LOC,701,703,input.txt,E_LOC_INDIA,英属印度,LOC,0.670654,英属印度,0.670654,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,716,718,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+伦敦,LOC,725,727,input.txt,E_LOC_LONDON,伦敦,LOC,0.67228,伦敦,0.67228,char_tfidf_surface+context_rerank,kb_dict
+帕丁顿,LOC,730,733,input.txt,E_LOC_PADDINGTON,帕丁顿,LOC,0.704856,帕丁顿,0.704856,char_tfidf_surface+context_rerank,kb_dict
+印度,LOC,766,768,input.txt,E_LOC_INDIA,英属印度,LOC,0.670654,英属印度,0.670654,char_tfidf_surface+context_rerank,kb_dict
+印度,LOC,773,775,input.txt,E_LOC_INDIA,英属印度,LOC,0.670654,英属印度,0.670654,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,801,803,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+吉尔福德,LOC,840,844,input.txt,,,ORG,0.245332,吉尔福德,0.245332,char_tfidf_surface+context_rerank,regex
+图灵,PER,852,854,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+圣迈克尔,ORG,900,904,input.txt,E_ORG_ST_MICHAEL,St. Michael's,ORG,0.732832,St. Michael's,0.732832,char_tfidf_surface+context_rerank,ner
+St. Michael,ORG,905,916,input.txt,E_ORG_ST_MICHAEL,St. Michael's,ORG,0.732832,St. Michael's,0.732832,char_tfidf_surface+context_rerank,ner
+马尔伯勒学院,ORG,943,949,input.txt,,,ORG,0.293846,马尔伯勒学院,0.293846,char_tfidf_surface+context_rerank,ner
+舍伯恩学校,ORG,983,988,input.txt,E_ORG_SHERBORNE,舍伯恩学校,ORG,0.699329,舍伯恩学校,0.699329,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1008,1010,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+南安普顿,LOC,1026,1030,input.txt,,,ORG,0.297804,南安普顿,0.297804,char_tfidf_surface+context_rerank,ner
+图灵,PER,1063,1065,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,1116,1118,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,1180,1182,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+阿尔伯特·爱因斯坦,PER,1193,1202,input.txt,E_PER_EINSTEIN,阿尔伯特·爱因斯坦,PER,0.734479,阿尔伯特·爱因斯坦,0.734479,char_tfidf_surface+context_rerank,kb_dict
+爱因斯坦,PER,1219,1223,input.txt,E_PER_EINSTEIN,阿尔伯特·爱因斯坦,PER,0.734479,阿尔伯特·爱因斯坦,0.734479,char_tfidf_surface+context_rerank,kb_dict
+爱因斯坦,PER,1237,1241,input.txt,E_PER_EINSTEIN,阿尔伯特·爱因斯坦,PER,0.734479,阿尔伯特·爱因斯坦,0.734479,char_tfidf_surface+context_rerank,kb_dict
+剑桥大学,ORG,1267,1271,input.txt,,,ORG,0.467179,剑桥大学,0.467179,char_tfidf_surface+context_rerank,input_dict
+国王学院,ORG,1271,1275,input.txt,E_ORG_CAMBRIDGE_KINGS,剑桥大学国王学院,ORG,0.683846,剑桥大学国王学院,0.683846,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1282,1284,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1293,1295,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+剑桥大学,ORG,1297,1301,input.txt,,,ORG,0.467179,剑桥大学,0.467179,char_tfidf_surface+context_rerank,input_dict
+国王学院,ORG,1301,1305,input.txt,E_ORG_CAMBRIDGE_KINGS,剑桥大学国王学院,ORG,0.683846,剑桥大学国王学院,0.683846,char_tfidf_surface+context_rerank,kb_dict
+国王学院,ORG,1366,1370,input.txt,E_ORG_CAMBRIDGE_KINGS,剑桥大学国王学院,ORG,0.683846,剑桥大学国王学院,0.683846,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1385,1387,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1443,1445,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+On Computable Numbers,PROD,1474,1495,input.txt,E_PROD_OCN,On Computable Numbers,PROD,0.739101,On Computable Numbers,0.739101,char_tfidf_surface+context_rerank,kb_dict
+图灵机,PROD,1585,1588,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵机,PROD,1621,1624,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1640,1642,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵机,PROD,1680,1683,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵机,PROD,1723,1726,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵机,PROD,1755,1758,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+比阿隆佐·邱奇,PER,1770,1777,input.txt,E_PER_CHURCH,阿隆佐·邱奇,PER,0.720776,阿隆佐·邱奇,0.720776,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,1796,1798,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,1816,1818,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,1889,1891,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+普林斯顿大学,ORG,1898,1904,input.txt,E_ORG_PRINCETON,普林斯顿大学,ORG,0.687804,普林斯顿大学,0.687804,char_tfidf_surface+context_rerank,kb_dict
+普林斯顿,LOC,2026,2030,input.txt,,,ORG,0.557804,普林斯顿,0.557804,char_tfidf_surface+context_rerank,regex
+图灵机,PROD,2085,2088,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+图灵机,PROD,2107,2110,input.txt,E_PROD_TM,图灵机,PROD,0.709511,图灵机,0.709511,char_tfidf_surface+context_rerank,kb_dict
+冯·诺依曼,PER,2118,2123,input.txt,E_PER_VON_NEUMANN,冯·诺依曼,PER,0.712804,冯·诺依曼,0.712804,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2127,2129,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,2147,2149,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2161,2163,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+剑桥,LOC,2165,2167,input.txt,,,ORG,0.293846,剑桥,0.293846,char_tfidf_surface+context_rerank,regex
+Foundations of mathematics,PROD,2185,2211,input.txt,,,PROD,0.333883,Foundations of mathematics,0.333883,char_tfidf_surface+context_rerank,ner
+图灵,PER,2224,2226,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,2281,2283,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+布莱切利庄园,LOC,2284,2290,input.txt,E_LOC_BLETCHLEY,布莱切利庄园,LOC,0.698996,布莱切利庄园,0.698996,char_tfidf_surface+context_rerank,kb_dict
+Asa Briggs,PER,2315,2325,input.txt,E_PER_ASA,Asa Briggs,PER,0.704625,Asa Briggs,0.704625,char_tfidf_surface+context_rerank,kb_dict
+布莱切利,LOC,2342,2346,input.txt,E_LOC_BLETCHLEY,布莱切利庄园,LOC,0.698996,布莱切利庄园,0.698996,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2351,2353,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,2377,2379,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+英国,LOC,2380,2382,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+政府密码和密码学校,ORG,2388,2397,input.txt,E_ORG_GCCS,GC&CS,ORG,0.700364,GC&CS,0.700364,char_tfidf_surface+context_rerank,kb_dict
+GC&CS,ORG,2398,2403,input.txt,E_ORG_GCCS,GC&CS,ORG,0.700364,GC&CS,0.700364,char_tfidf_surface+context_rerank,kb_dict
+GC&CS,ORG,2413,2418,input.txt,E_ORG_GCCS,GC&CS,ORG,0.700364,GC&CS,0.700364,char_tfidf_surface+context_rerank,kb_dict
+第利温·诺克斯,PER,2423,2430,input.txt,E_PER_NOX,第利温·诺克斯,PER,0.693954,第利温·诺克斯,0.693954,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛密码机,PROD,2441,2448,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+华沙,LOC,2475,2477,input.txt,,,PROD,0.099505,华沙,0.099505,char_tfidf_surface+context_rerank,regex
+英国,LOC,2484,2486,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛密码机,PROD,2492,2499,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛密码机,PROD,2512,2519,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2531,2533,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+诺克斯,PER,2534,2537,input.txt,E_PER_NOX,第利温·诺克斯,PER,0.693954,第利温·诺克斯,0.693954,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2575,2577,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛,PROD,2588,2592,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2630,2632,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国皇家海军,ORG,2633,2639,input.txt,E_ORG_NAVY_UK,英国皇家海军,ORG,0.675043,英国皇家海军,0.675043,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,2644,2646,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+军情六处,ORG,2646,2650,input.txt,E_ORG_MI6,军情六处,ORG,0.675675,军情六处,0.675675,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛密码机,PROD,2689,2696,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+军情六处,ORG,2706,2710,input.txt,E_ORG_MI6,军情六处,ORG,0.675675,军情六处,0.675675,char_tfidf_surface+context_rerank,kb_dict
+军情六处,ORG,2728,2732,input.txt,E_ORG_MI6,军情六处,ORG,0.675675,军情六处,0.675675,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2740,2742,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,2791,2793,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+The Applications of Probability to Cryptography,PROD,2825,2872,input.txt,E_PROD_APC,The Applications of Probability to Cryptography,PROD,0.752376,The Applications of Probability to Cryptography,0.752376,char_tfidf_surface+context_rerank,ner
+Paper on Statistics of Repetitions,PROD,2877,2911,input.txt,E_PROD_PSR,Paper on Statistics of Repetitions,PROD,0.749505,Paper on Statistics of Repetitions,0.749505,char_tfidf_surface+context_rerank,ner
+GC&CS,ORG,2919,2924,input.txt,E_ORG_GCCS,GC&CS,ORG,0.700364,GC&CS,0.700364,char_tfidf_surface+context_rerank,kb_dict
+GCHQ,ORG,2930,2934,input.txt,E_ORG_GCHQ,GCHQ,ORG,0.722573,GCHQ,0.722573,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,2963,2965,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+GCHQ,ORG,2987,2991,input.txt,E_ORG_GCHQ,GCHQ,ORG,0.722573,GCHQ,0.722573,char_tfidf_surface+context_rerank,kb_dict
+官方保密法,PROD,3014,3019,input.txt,,,PROD,0.192859,官方保密法,0.192859,char_tfidf_surface+context_rerank,input_dict
+GCHQ,ORG,3157,3161,input.txt,E_ORG_GCHQ,GCHQ,ORG,0.722573,GCHQ,0.722573,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,3201,3203,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+布莱切利庄园,LOC,3204,3210,input.txt,E_LOC_BLETCHLEY,布莱切利庄园,LOC,0.698996,布莱切利庄园,0.698996,char_tfidf_surface+context_rerank,kb_dict
+恩尼格玛密码机,PROD,3243,3250,input.txt,E_PROD_ENIGMA,恩尼格玛密码机,PROD,0.699866,恩尼格玛密码机,0.699866,char_tfidf_surface+context_rerank,kb_dict
+Ronald Lewin,PER,3279,3291,input.txt,E_PER_LEWIN,Ronald Lewin,PER,0.720785,Ronald Lewin,0.720785,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,3296,3298,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+小屋8,ORG,3468,3471,input.txt,E_ORG_HUT8,Hut 8,ORG,0.72505,Hut 8,0.72505,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,3473,3475,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,3673,3675,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+Nova PBS纪录片《解码纳粹秘密》,PROD,3729,3748,input.txt,E_PROD_DECODE_NAZI,解码纳粹秘密,PROD,0.696405,解码纳粹秘密,0.696405,char_tfidf_surface+context_rerank,kb_dict
+在布莱奇利庄园,ORG,3765,3772,input.txt,,,LOC,0.548996,在布莱奇利庄园,0.548996,char_tfidf_surface+context_rerank,regex
+图灵,PER,3777,3779,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+伦敦,LOC,3820,3822,input.txt,E_LOC_LONDON,伦敦,LOC,0.67228,伦敦,0.67228,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,3851,3853,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+英国,LOC,3861,3863,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,3895,3897,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+托马斯·理查兹,PER,3901,3908,input.txt,E_PER_RICHARDS,Thomas Richards,PER,0.733103,Thomas Richards,0.733103,char_tfidf_surface+context_rerank,kb_dict
+Thomas Richards,PER,3909,3924,input.txt,E_PER_RICHARDS,Thomas Richards,PER,0.733103,Thomas Richards,0.733103,char_tfidf_surface+context_rerank,kb_dict
+沃尔顿竞技俱乐部,ORG,3951,3959,input.txt,E_ORG_WAC,沃尔顿竞技俱乐部,ORG,0.674897,沃尔顿竞技俱乐部,0.674897,char_tfidf_surface+context_rerank,kb_dict
+布莱切利庄园,LOC,4169,4175,input.txt,E_LOC_BLETCHLEY,布莱切利庄园,LOC,0.698996,布莱切利庄园,0.698996,char_tfidf_surface+context_rerank,kb_dict
+官方保密法,PROD,4193,4198,input.txt,,,PROD,0.192859,官方保密法,0.192859,char_tfidf_surface+context_rerank,input_dict
+图灵,PER,4237,4239,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+乔治六世,PER,4248,4252,input.txt,E_PER_GEORGE6,乔治六世国王,PER,0.674793,乔治六世国王,0.674793,char_tfidf_surface+context_rerank,kb_dict
+大英帝国勋章,PROD,4257,4263,input.txt,E_PROD_OBE,大英帝国勋章,PROD,0.668665,大英帝国勋章,0.668665,char_tfidf_surface+context_rerank,kb_dict
+OBE,PROD,4264,4267,input.txt,E_PROD_OBE,大英帝国勋章,PROD,0.668665,大英帝国勋章,0.668665,char_tfidf_surface+context_rerank,kb_dict
+图灵测试,PROD,4312,4316,input.txt,E_PROD_TT,图灵测试,PROD,0.698898,图灵测试,0.698898,char_tfidf_surface+context_rerank,kb_dict
+布莱切利庄园,LOC,4319,4325,input.txt,E_LOC_BLETCHLEY,布莱切利庄园,LOC,0.698996,布莱切利庄园,0.698996,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4326,4328,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵测试,PROD,4339,4343,input.txt,E_PROD_TT,图灵测试,PROD,0.698898,图灵测试,0.698898,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4356,4358,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+国家物理实验室,ORG,4359,4366,input.txt,E_ORG_NPL,国家物理实验室,ORG,0.689773,国家物理实验室,0.689773,char_tfidf_surface+context_rerank,kb_dict
+自动计算引擎,PROD,4368,4374,input.txt,E_PROD_ACE,ACE,PROD,0.688417,ACE,0.688417,char_tfidf_surface+context_rerank,kb_dict
+ACE,PROD,4375,4378,input.txt,E_PROD_ACE,ACE,PROD,0.688417,ACE,0.688417,char_tfidf_surface+context_rerank,kb_dict
+曼彻斯特大学计算机实验室,ORG,4394,4406,input.txt,E_ORG_UOM_CL,曼彻斯特大学计算机实验室,ORG,0.708845,曼彻斯特大学计算机实验室,0.708845,char_tfidf_surface+context_rerank,kb_dict
+曼彻斯特一号,PROD,4424,4430,input.txt,E_PROD_M1,曼彻斯特一号,PROD,0.696758,曼彻斯特一号,0.696758,char_tfidf_surface+context_rerank,kb_dict
+计算机械和智能,PROD,4458,4465,input.txt,E_PROD_CMI,计算机器和智能,PROD,0.730368,计算机器和智能,0.730368,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4467,4469,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵测试,PROD,4487,4491,input.txt,E_PROD_TT,图灵测试,PROD,0.698898,图灵测试,0.698898,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4526,4528,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+新墨西哥州洛斯阿拉莫斯国家实验室,ORG,4609,4625,input.txt,E_ORG_LANL,新墨西哥州洛斯阿拉莫斯国家实验室,ORG,0.706757,新墨西哥州洛斯阿拉莫斯国家实验室,0.706757,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4631,4633,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+ENIAC,PROD,4638,4643,input.txt,E_PROD_ENIAC,ENIAC,PROD,0.692482,ENIAC,0.692482,char_tfidf_surface+context_rerank,kb_dict
+洛斯阿拉莫斯象棋,PROD,4664,4672,input.txt,E_PROD_LA_CHESS,洛斯阿拉莫斯象棋,PROD,0.710285,洛斯阿拉莫斯象棋,0.710285,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,4700,4702,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+形态发生的化学基础,PROD,4730,4739,input.txt,E_PROD_MORPH,形态发生的化学基础,PROD,0.739686,形态发生的化学基础,0.739686,char_tfidf_surface+context_rerank,kb_dict
+The Chemical Basis of Morphogenesis,PROD,4744,4779,input.txt,E_PROD_MORPH,形态发生的化学基础,PROD,0.739686,形态发生的化学基础,0.739686,char_tfidf_surface+context_rerank,ner
+艾伦·图灵选集,PROD,4864,4871,input.txt,,,PER,0.608777,艾伦·图灵选集,0.608777,char_tfidf_surface+context_rerank,input_dict
+图灵,PER,4933,4935,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+东柴郡,LOC,4936,4939,input.txt,,,PROD,0.099505,东柴郡,0.099505,char_tfidf_surface+context_rerank,regex
+威姆斯洛,LOC,4939,4943,input.txt,,,PER,0.229668,威姆斯洛,0.229668,char_tfidf_surface+context_rerank,regex
+图灵,PER,4956,4958,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5003,5005,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,5013,5015,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5158,5160,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5177,5179,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+Ethel Sara Stoney,PER,5223,5240,input.txt,E_PER_ETHEL,Ethel Sara Stoney,PER,0.739556,Ethel Sara Stoney,0.739556,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5253,5255,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国首相戈登·布朗,PER,5318,5327,input.txt,E_PER_BROWN,戈登·布朗,PER,0.671268,戈登·布朗,0.671268,char_tfidf_surface+context_rerank,kb_dict
+每日电讯报,ORG,5329,5334,input.txt,E_ORG_DT,每日电讯报,ORG,0.668726,每日电讯报,0.668726,char_tfidf_surface+context_rerank,kb_dict
+英国政府,ORG,5340,5344,input.txt,E_ORG_GOV_UK,英国政府,ORG,0.679056,英国政府,0.679056,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5356,5358,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5375,5377,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国政府,ORG,5415,5419,input.txt,E_ORG_GOV_UK,英国政府,ORG,0.679056,英国政府,0.679056,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5421,5423,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,5436,5438,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5466,5468,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5480,5482,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+图灵,PER,5515,5517,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+英国司法部,ORG,5670,5675,input.txt,E_ORG_MOJ_UK,英国司法部,ORG,0.673686,英国司法部,0.673686,char_tfidf_surface+context_rerank,kb_dict
+英国,LOC,5677,5679,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+伊丽莎白二世,PER,5681,5687,input.txt,E_PER_ELIZABETH2,伊丽莎白二世,PER,0.67216,伊丽莎白二世,0.67216,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5707,5709,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5732,5734,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5771,5773,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,ner
+英国,LOC,5777,5779,input.txt,E_LOC_UK,英国,LOC,0.671863,英国,0.671863,char_tfidf_surface+context_rerank,kb_dict
+英国政府,ORG,5803,5807,input.txt,E_ORG_GOV_UK,英国政府,ORG,0.679056,英国政府,0.679056,char_tfidf_surface+context_rerank,kb_dict
+图灵,PER,5817,5819,input.txt,E_PER_TURING,艾伦·图灵,PER,0.71711,艾伦·图灵,0.71711,char_tfidf_surface+context_rerank,kb_dict
+艾伦·图灵法案,PROD,5842,5849,input.txt,E_PROD_TURING_ACT,艾伦·图灵法案,PROD,0.698415,艾伦·图灵法案,0.698415,char_tfidf_surface+context_rerank,kb_dict

@@ -1,6 +1,6 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
-from typing import List, Dict, Tuple
+from typing import Dict, List, Tuple
 
 
 def entities_to_bio(text: str, entities: List[Dict]) -> List[str]:

@@ -1,0 +1,3406 @@
+{
+  "text": "艾伦·麦席森·图灵，OBE，FRS（英语：Alan Mathison Turing，又译阿兰·图灵，Turing也常翻译成涂林或者杜林，1912年6月23日—1954年6月7日），英国计算机科学家、数学家、逻辑学家、密码分析学家和理论生物学家，他被誉为计算机科学与人工智能之父。\n\n二次世界大战期间，“Hut 8”小组，负责德国海军密码分析。 期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器Bombe，一种可以找到恩尼格玛密码机设置的机电机器。 图灵在破译截获的编码信息方面发挥了关键作用，使盟军能够在包括大西洋战役在内的许多重要交战中击败轴心国海军，并因此帮助赢得了战争[3][4]。\n\n图灵对于人工智能的发展有诸多贡献，例如图灵曾写过一篇名为《计算机器和智能》的论文，提问“机器会思考吗？”（Can Machines Think?），作为一种用于判定机器是否具有智能的测试方法，即图灵测试[5]。至今，每年都有试验的比赛。此外，图灵提出的著名的图灵机模型为现代计算机的逻辑工作方式奠定了基础。\n\n图灵是男同性恋者，并因为其性倾向而遭到当时的英国政府迫害，职业生涯尽毁。他亦患有花粉过敏症。\n\n图灵还是一位长跑运动员。他的马拉松最好成绩是2小时46分03秒（手动计时），比1948年奥林匹克运动会金牌成绩慢11分钟。1948年的一次越野赛跑中，他跑赢了同年奥运会银牌得主汤姆·理查兹[6]。\n\n生平\n孩童和年轻时代\n图灵的父亲朱利斯·麦席森·图灵（Julius Mathison Turing）是一名英属印度的公务员。1911年，图灵的母亲Ethel Sara Stoney在英属印度怀了孕。因为他们希望艾伦在英国出生，所以回到伦敦，住在帕丁顿，并在那里生下了艾伦。父亲的公务员委任使他在小时候经常来往于英伦和印度。由于担心印度的气候不利于儿童成长，他便把家庭留在英伦与朋友同住。图灵很小的时候就表现出他的天赋，后来越发明显[7]。\n\n1927年，他的父母在吉尔福德购买了一所房子，图灵在学校放假期间住在该处。该位置附近还标有蓝色路牌。[8]\n\n六岁的时候，他的父母为他在一间叫圣迈克尔（St. Michael's）的日间学校注册。女校长很快就注意到他的才能，随后马尔伯勒学院的许多教育家也注意到这点。1926年，他十三岁的时候考入在多塞特郡的舍伯恩学校。[9]开学的第一天，不幸遇上了大罢工。图灵坚决要上第一天的课，于是他独自从南安普顿骑了六十英哩的自行车去上学，途中还在一间旅社度过一宵。[10]\n\n图灵天生对科学的喜好并没有给他在谢尔本的老师留下好印象。他们对教育较为着重于人文学科而不是科学。虽然如此，图灵继续在他喜欢的学科表现出惊人的能力，还没有学过基础微积分的他，就已经能够解答以他年纪来说算是很高深的难题。\n\n1928年，在图灵16岁的时候，开始阅读阿尔伯特·爱因斯坦的著作。他不但能够理解，而且看出了爱因斯坦对牛顿运动定律存有质疑，即使爱因斯坦的著作中并没有明白指出这点。[11]\n\n大学生涯\n\n剑桥大学国王学院的电脑房现在以图灵为名\n1931年，图灵考入剑桥大学国王学院攻读本科，并获得了数学一等荣誉。\n\n1934年他以优异成绩毕业。\n\n1935年，22岁的他凭借证明中心极限定理的论文被选为国王学院研究员[12][13]。虽然说图灵不知道，该定理已在1922年由亚尔·瓦尔德马·林德伯格证明。尽管如此，委员会认为这项研究值得考虑提供研究金。\n\n图灵在他的重要论文《论可计算数及其在判定问题上的应用》（英语：On Computable Numbers, with an Application to the Entscheidungsproblem）里[14]，对哥德尔1931年在证明和计算的限制的结果作了重新论述，他用现在叫做图灵机的简单形式的抽象设备代替了哥德尔的以通用算术为基础的形式语言。虽然图灵机过于缓慢的速度使其没有实际用途，图灵还是证明了这样的机器有能力解决任何可想像的，并以数学式表达的数学难题。现今，图灵机还是计算理论研究的中心课题。他继续证明了判定问题是没有答案的。他的证明首先展示了图灵机的停机问题没有答案，这是说不可能用一个算法来决定一台指定的图灵机是否会停机。尽管他的证明比阿隆佐·邱奇在λ演算方面相等的证明晚发表了几个月，图灵的著作是更易于理解和直观。他的通用（图灵）机的概念也很新颖。这一通用机能够完成任何其他机器所能做的任务。这篇论文还介绍了可定义数的概念。[15]\n\n1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。除了他的纯数学工作外，他亦研究密码学，并建造了机电二进制乘法器的四个阶段中的其中三个。[16]1938年6月，获普林斯顿数学系博士学位；[17]他的论文基于序数的逻辑系统[18][19],介绍了序数逻辑的概念和相对计算的概念，其中图灵机增加了所谓的预言机，允许学者进一步研究图灵机无法解决的问题。冯·诺依曼有意聘请图灵做他的博士后助理，但他谢绝后又回到了英国。[20]\n\n1939年图灵回到剑桥，聆听了维特根斯坦关于数学基本原理（Foundations of mathematics）的讲座。他们激烈地争论，图灵为形式主义辩护，而维特根斯坦则认为把数学抬得太高反而不能发现任何绝对真理。\n\n密码分析\n在第二次世界大战期间，图灵是布莱切利庄园破解德国密码的主要参与者。历史学家和战时密码破译员Asa Briggs曾说过：“你需要非凡的天赋，你需要布莱切利的天才，而图灵就是那个天才。”[21]\n\n从1938年9月起，图灵在英国密码破译组织政府密码和密码学校(GC&CS)兼职工作。他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。[22]\n\n1939年7月，波兰密码局在华沙附近的会议上向英国和法国提供了恩尼格玛密码机机器的详细信息以及他们解密恩尼格玛密码机机器信息的方法。不久后，图灵和诺克斯开发了一个更具广泛性的解决方案。[23]波兰方法依赖于德国人的不严谨的程序。图灵的方法更通用，使用基于恩尼格玛分析，他为此制作了炸弹的功能规范（对波兰炸弹的改进）。[24]\n\n1939年图灵被英国皇家海军招聘，并在英国军情六处监督下从事对德国机密军事密码的破译工作。两年后他的小组成功破译了德国的密码系统恩尼格玛密码机[注 1]，从而使得军情六处对德国的军事指挥和计划了如指掌。但是军情六处以机密为由隐瞒了图灵小组的存在和成就，将其所得情报据为己有。\n\n通过使用统计技术来优化密码破译过程中不同可能性的试验，图灵为该课题做出了创新贡献。他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。一位GCHQ数学家，“他只承认自己是理查德”，当时说，根据官方保密法，内容被屏蔽了大约 70 年这一事实证明了它们的重要性，以及它们与战后密码分析的相关性：[27]\n\n说，内容受到限制的事实“表明它在我们学科的基础中具有多么巨大的重要性”。...论文详细使用“数学分析来尝试确定哪些是更有可能的设置，以便尽快尝试它们。” ......理查德说，GCHQ 现在已经从这两篇论文中“榨取了汁液”，并且“很高兴将它们发布到公共领域”。\n\n图灵在布莱切利庄园以其古怪的性格而闻名。他的同事称他为“教授”（Prof），而他关于恩尼格玛密码机的论文被也被称为“教授之书”。[28][29]根据历史学家Ronald Lewin的说法，与图灵一起工作的密码分析家I·J·古德谈到他的同事时说：\n\n每年六月的第一周，他都会患上花粉热，他会戴着杀毒面具骑自行车去办公室，以防花粉。他的自行车有毛病：链条会定期脱落。他没有修理它，而是计算踏板转动的次数，并及时下车手动调整链条。他的另一个怪癖是他把杯子拴在散热器管上以防被偷。[30]\n\n彼得希尔顿在他的“美国数学世纪的回忆”中讲述了他在小屋8中与图灵合作的经历： [31]\n\n遇到真正的天才是一种难得的经历。我们这些有幸居住在学术世界的人都熟悉才华横溢的同事提供的智力刺激。我们可以欣赏他们与我们分享的想法，并且通常能够理解它们的来源；我们甚至可能经常相信我们自己可以创造这样的概念并产生这样的想法。然而，分享天才的智力生活的体验却完全不同；一个人意识到自己是在一种智能的面前，一种对如此深刻和独创性的敏感性，以至于一个人充满了惊奇和兴奋。艾伦·图灵就是这样一个天才，而那些像我一样，在第二次世界大战的奇怪紧急情况下拥有惊人而意想不到的机会的人\n\n希尔顿在 Nova PBS纪录片《解码纳粹秘密》中也表达了类似的想法。[32]\n\n在布莱奇利庄园工作期间，图灵是也一位才华横溢的长跑运动员，当需要开会时，他偶尔会跑 40 英里（64 公里）到伦敦，[33]他有能力达到世界级的马拉松标准。[34][35]图灵为 1948 年英国奥运代表队进行了试训，但他也被伤病的阻碍。他的马拉松选拔时间仅比英国银牌得主托马斯·理查兹（Thomas Richards）的奥运会比赛时间（2小时35分钟）慢了11分钟。他是沃尔顿竞技俱乐部最好的跑者，这一事实是在他独自跑过小组时发现的。 [36][37][38]当被问及为什么他在训练中跑得如此努力时，他回答说：\n\n我的工作压力很大，要想摆脱它，唯一的办法就是努力奔跑。这是我释放压力的唯一方法。[39]\n\n由于历史反事实的问题，很难准确估计超智能对战争的影响。[40]然而，官方战争历史学家哈里·欣斯利估计，这项工作将欧洲的战争缩短了两年多，挽救了超过 1400 万人的生命。[41]\n\n战争结束时，所有在布莱切利庄园工作的人收到了一份备忘录，提醒他们《官方保密法》规定的沉默守则不会随着战争而结束，而是会无限期地继续下去。[42]因此，尽管图灵在 1946 年被乔治六世国王任命为大英帝国勋章(OBE)，以表彰他在战时的服务，但他的工作多年来一直保密。[43][44]\n\n早期的计算机研究：图灵测试\n\n在布莱切利庄园的图灵石像[45]\n主条目：图灵测试\n1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。在这段时间，他继续作一些比较抽象的研究，如“计算机械和智能”。图灵在对人工智能的研究中，提出了一个叫做图灵测试的实验，尝试定出一个决定机器是否有感觉的标准。[15]\n\n1952年，图灵写了一个国际象棋程序。可是，当时没有一台计算机有足够的运算能力去执行这个程序，他就模仿计算机，每走一步要用半小时。他与一位同事下了一盘，结果程序输了。\n\n后来美国新墨西哥州洛斯阿拉莫斯国家实验室的研究组根据图灵的理论，在ENIAC上设计出世界上第一个电脑程序的国际象棋——洛斯阿拉莫斯象棋。\n\n图案形成和数理生物学的研究\n从1952年直到去世，图灵一直在生物数学方面做研究。他在1952年发表了一篇论文《形态发生的化学基础》（英语：The Chemical Basis of Morphogenesis）。[46]他主要的兴趣是斐波那契叶序列，存在于植物结构的斐波那契数。他应用了反应-扩散公式，现在已经成为图案形成范畴的核心。他后期的论文都没有发表，一直等到1992年《艾伦·图灵选集》出版，这些文章才见天日。[47]2012年，《自然》杂志称赞他是有史以来最具科学思想的人物之一。[48]\n\n迫害和逝世\n\n图灵在东柴郡威姆斯洛的家，挂有蓝色牌匾。\n因为图灵的同性恋倾向而遭到的迫害使得他的职业生涯尽毁。1952年，他的同性伴侣协同一名同谋一起闯进图灵的房子行窃，但是英国警方的调查结果使得他被控以“明显的猥亵和性颠倒行为”罪（请参看性悖轨法）。他没有申辩，并被定罪。在公审后，他被给予了两个选择：坐牢或女性荷尔蒙注射“疗法”（即化学阉割）。他最后选择了雌激素注射[49]，并持续一年。在这段时间里，药物产生了包括乳房不断发育的副作用，也使原本热爱体育运动的图灵在身心上受到极大伤害。1954年，图灵因食用浸过氰化物溶液的苹果而死亡。很多人相信他有意吃这苹果，并判决他是自杀。但是他的母亲Ethel Sara Stoney极力争辩他的死是意外，因为图灵工作室有很多化学品，而他不小心让苹果沾上氰化物溶液。\n\n政府的道歉和平反\n在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。[50][51][52]\n\n至2012年，有2万多人签名请愿，要求英国政府追授图灵死后赦免状，但被当场拒绝。英国上议院的麦克纳利勋爵解释说：“死后赦免状是不合理的，因为图灵是根据当时的法律被定罪。图灵应当知道他的所做所为会触犯法律，他也应当意识到他有可能会受到迫害。图灵在当时的判罪在今天看来既残酷又荒唐，这无疑是一个悲剧，尤其我们应当知道他对战争胜利做出了卓越的贡献。然而，我们不应当脱离历史背景看待这一事件，在那时的法律这的确是重刑。我们不应该在纠结于把不正确的事强行拨乱反正，我们所能做的是确保今日的社会再也不要回到过去及重复历史。”[53]\n\n2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。[54][55]\n\n2015年2月23日，图灵的家人向英国首相府邸发出了一份超过50万人签名的请愿书，要求英国政府赦免49,000个和图灵一样因同性恋而获罪的人。2017年1月31日，艾伦·图灵法案生效，约49,000位因同性恋定罪者被赦免[56]。\n",
+  "entities": [
+    {
+      "start": 7,
+      "end": 9,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 10,
+      "end": 13,
+      "label": "PROD",
+      "text": "OBE",
+      "entity_id": "E_PROD_OBE",
+      "kb_name": "大英帝国勋章",
+      "kb_type": "PROD",
+      "link_score": 0.668665,
+      "source": "kb_dict"
+    },
+    {
+      "start": 21,
+      "end": 41,
+      "label": "PER",
+      "text": "Alan Mathison Turing",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "label": "PER",
+      "text": "阿兰·图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 90,
+      "end": 92,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "ner"
+    },
+    {
+      "start": 151,
+      "end": 156,
+      "label": "ORG",
+      "text": "Hut 8",
+      "entity_id": "E_ORG_HUT8",
+      "kb_name": "Hut 8",
+      "kb_type": "ORG",
+      "link_score": 0.72505,
+      "source": "kb_dict"
+    },
+    {
+      "start": 205,
+      "end": 210,
+      "label": "PROD",
+      "text": "Bombe",
+      "entity_id": "E_PROD_BOMBE",
+      "kb_name": "Bombe",
+      "kb_type": "PROD",
+      "link_score": 0.712939,
+      "source": "ner"
+    },
+    {
+      "start": 217,
+      "end": 224,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 233,
+      "end": 235,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 305,
+      "end": 307,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 324,
+      "end": 326,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 334,
+      "end": 341,
+      "label": "PROD",
+      "text": "计算机器和智能",
+      "entity_id": "E_PROD_CMI",
+      "kb_name": "计算机器和智能",
+      "kb_type": "PROD",
+      "link_score": 0.730368,
+      "source": "kb_dict"
+    },
+    {
+      "start": 349,
+      "end": 355,
+      "label": "PROD",
+      "text": "机器会思考吗",
+      "entity_id": "E_PROD_CMT",
+      "kb_name": "机器会思考吗",
+      "kb_type": "PROD",
+      "link_score": 0.719968,
+      "source": "kb_dict"
+    },
+    {
+      "start": 358,
+      "end": 377,
+      "label": "PROD",
+      "text": "Can Machines Think?",
+      "entity_id": "E_PROD_CMT",
+      "kb_name": "机器会思考吗",
+      "kb_type": "PROD",
+      "link_score": 0.719968,
+      "source": "kb_dict"
+    },
+    {
+      "start": 402,
+      "end": 406,
+      "label": "PROD",
+      "text": "图灵测试",
+      "entity_id": "E_PROD_TT",
+      "kb_name": "图灵测试",
+      "kb_type": "PROD",
+      "link_score": 0.698898,
+      "source": "kb_dict"
+    },
+    {
+      "start": 426,
+      "end": 428,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 434,
+      "end": 437,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 460,
+      "end": 462,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 482,
+      "end": 486,
+      "label": "ORG",
+      "text": "英国政府",
+      "entity_id": "E_ORG_GOV_UK",
+      "kb_name": "英国政府",
+      "kb_type": "ORG",
+      "link_score": 0.679056,
+      "source": "kb_dict"
+    },
+    {
+      "start": 508,
+      "end": 510,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 596,
+      "end": 602,
+      "label": "PER",
+      "text": "汤姆·理查兹",
+      "entity_id": "E_PER_RICHARDS",
+      "kb_name": "Thomas Richards",
+      "kb_type": "PER",
+      "link_score": 0.733103,
+      "source": "kb_dict"
+    },
+    {
+      "start": 619,
+      "end": 621,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 624,
+      "end": 634,
+      "label": "PER",
+      "text": "朱利斯·麦席森·图灵",
+      "entity_id": "E_PER_JULIUS",
+      "kb_name": "朱利斯·麦席森·图灵",
+      "kb_type": "PER",
+      "link_score": 0.711658,
+      "source": "kb_dict"
+    },
+    {
+      "start": 635,
+      "end": 657,
+      "label": "PER",
+      "text": "Julius Mathison Turing",
+      "entity_id": "E_PER_JULIUS",
+      "kb_name": "朱利斯·麦席森·图灵",
+      "kb_type": "PER",
+      "link_score": 0.711658,
+      "source": "ner"
+    },
+    {
+      "start": 663,
+      "end": 665,
+      "label": "LOC",
+      "text": "印度",
+      "entity_id": "E_LOC_INDIA",
+      "kb_name": "英属印度",
+      "kb_type": "LOC",
+      "link_score": 0.670654,
+      "source": "kb_dict"
+    },
+    {
+      "start": 676,
+      "end": 678,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 681,
+      "end": 698,
+      "label": "PER",
+      "text": "Ethel Sara Stoney",
+      "entity_id": "E_PER_ETHEL",
+      "kb_name": "Ethel Sara Stoney",
+      "kb_type": "PER",
+      "link_score": 0.739556,
+      "source": "kb_dict"
+    },
+    {
+      "start": 701,
+      "end": 703,
+      "label": "LOC",
+      "text": "印度",
+      "entity_id": "E_LOC_INDIA",
+      "kb_name": "英属印度",
+      "kb_type": "LOC",
+      "link_score": 0.670654,
+      "source": "kb_dict"
+    },
+    {
+      "start": 716,
+      "end": 718,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 725,
+      "end": 727,
+      "label": "LOC",
+      "text": "伦敦",
+      "entity_id": "E_LOC_LONDON",
+      "kb_name": "伦敦",
+      "kb_type": "LOC",
+      "link_score": 0.67228,
+      "source": "kb_dict"
+    },
+    {
+      "start": 730,
+      "end": 733,
+      "label": "LOC",
+      "text": "帕丁顿",
+      "entity_id": "E_LOC_PADDINGTON",
+      "kb_name": "帕丁顿",
+      "kb_type": "LOC",
+      "link_score": 0.704856,
+      "source": "kb_dict"
+    },
+    {
+      "start": 766,
+      "end": 768,
+      "label": "LOC",
+      "text": "印度",
+      "entity_id": "E_LOC_INDIA",
+      "kb_name": "英属印度",
+      "kb_type": "LOC",
+      "link_score": 0.670654,
+      "source": "kb_dict"
+    },
+    {
+      "start": 773,
+      "end": 775,
+      "label": "LOC",
+      "text": "印度",
+      "entity_id": "E_LOC_INDIA",
+      "kb_name": "英属印度",
+      "kb_type": "LOC",
+      "link_score": 0.670654,
+      "source": "kb_dict"
+    },
+    {
+      "start": 801,
+      "end": 803,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 840,
+      "end": 844,
+      "label": "LOC",
+      "text": "吉尔福德",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.245332,
+      "source": "regex"
+    },
+    {
+      "start": 852,
+      "end": 854,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 900,
+      "end": 904,
+      "label": "ORG",
+      "text": "圣迈克尔",
+      "entity_id": "E_ORG_ST_MICHAEL",
+      "kb_name": "St. Michael's",
+      "kb_type": "ORG",
+      "link_score": 0.732832,
+      "source": "ner"
+    },
+    {
+      "start": 905,
+      "end": 916,
+      "label": "ORG",
+      "text": "St. Michael",
+      "entity_id": "E_ORG_ST_MICHAEL",
+      "kb_name": "St. Michael's",
+      "kb_type": "ORG",
+      "link_score": 0.732832,
+      "source": "ner"
+    },
+    {
+      "start": 943,
+      "end": 949,
+      "label": "ORG",
+      "text": "马尔伯勒学院",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.293846,
+      "source": "ner"
+    },
+    {
+      "start": 983,
+      "end": 988,
+      "label": "ORG",
+      "text": "舍伯恩学校",
+      "entity_id": "E_ORG_SHERBORNE",
+      "kb_name": "舍伯恩学校",
+      "kb_type": "ORG",
+      "link_score": 0.699329,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1008,
+      "end": 1010,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1026,
+      "end": 1030,
+      "label": "LOC",
+      "text": "南安普顿",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.297804,
+      "source": "ner"
+    },
+    {
+      "start": 1063,
+      "end": 1065,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1116,
+      "end": 1118,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1180,
+      "end": 1182,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1193,
+      "end": 1202,
+      "label": "PER",
+      "text": "阿尔伯特·爱因斯坦",
+      "entity_id": "E_PER_EINSTEIN",
+      "kb_name": "阿尔伯特·爱因斯坦",
+      "kb_type": "PER",
+      "link_score": 0.734479,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1219,
+      "end": 1223,
+      "label": "PER",
+      "text": "爱因斯坦",
+      "entity_id": "E_PER_EINSTEIN",
+      "kb_name": "阿尔伯特·爱因斯坦",
+      "kb_type": "PER",
+      "link_score": 0.734479,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1237,
+      "end": 1241,
+      "label": "PER",
+      "text": "爱因斯坦",
+      "entity_id": "E_PER_EINSTEIN",
+      "kb_name": "阿尔伯特·爱因斯坦",
+      "kb_type": "PER",
+      "link_score": 0.734479,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1267,
+      "end": 1271,
+      "label": "ORG",
+      "text": "剑桥大学",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.467179,
+      "source": "input_dict"
+    },
+    {
+      "start": 1271,
+      "end": 1275,
+      "label": "ORG",
+      "text": "国王学院",
+      "entity_id": "E_ORG_CAMBRIDGE_KINGS",
+      "kb_name": "剑桥大学国王学院",
+      "kb_type": "ORG",
+      "link_score": 0.683846,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1282,
+      "end": 1284,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1293,
+      "end": 1295,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1297,
+      "end": 1301,
+      "label": "ORG",
+      "text": "剑桥大学",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.467179,
+      "source": "input_dict"
+    },
+    {
+      "start": 1301,
+      "end": 1305,
+      "label": "ORG",
+      "text": "国王学院",
+      "entity_id": "E_ORG_CAMBRIDGE_KINGS",
+      "kb_name": "剑桥大学国王学院",
+      "kb_type": "ORG",
+      "link_score": 0.683846,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1366,
+      "end": 1370,
+      "label": "ORG",
+      "text": "国王学院",
+      "entity_id": "E_ORG_CAMBRIDGE_KINGS",
+      "kb_name": "剑桥大学国王学院",
+      "kb_type": "ORG",
+      "link_score": 0.683846,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1385,
+      "end": 1387,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1443,
+      "end": 1445,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1474,
+      "end": 1495,
+      "label": "PROD",
+      "text": "On Computable Numbers",
+      "entity_id": "E_PROD_OCN",
+      "kb_name": "On Computable Numbers",
+      "kb_type": "PROD",
+      "link_score": 0.739101,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1585,
+      "end": 1588,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1621,
+      "end": 1624,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1640,
+      "end": 1642,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1680,
+      "end": 1683,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1723,
+      "end": 1726,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1755,
+      "end": 1758,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1770,
+      "end": 1777,
+      "label": "PER",
+      "text": "比阿隆佐·邱奇",
+      "entity_id": "E_PER_CHURCH",
+      "kb_name": "阿隆佐·邱奇",
+      "kb_type": "PER",
+      "link_score": 0.720776,
+      "source": "kb_dict"
+    },
+    {
+      "start": 1796,
+      "end": 1798,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1816,
+      "end": 1818,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1889,
+      "end": 1891,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 1898,
+      "end": 1904,
+      "label": "ORG",
+      "text": "普林斯顿大学",
+      "entity_id": "E_ORG_PRINCETON",
+      "kb_name": "普林斯顿大学",
+      "kb_type": "ORG",
+      "link_score": 0.687804,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2026,
+      "end": 2030,
+      "label": "LOC",
+      "text": "普林斯顿",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.557804,
+      "source": "regex"
+    },
+    {
+      "start": 2085,
+      "end": 2088,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2107,
+      "end": 2110,
+      "label": "PROD",
+      "text": "图灵机",
+      "entity_id": "E_PROD_TM",
+      "kb_name": "图灵机",
+      "kb_type": "PROD",
+      "link_score": 0.709511,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2118,
+      "end": 2123,
+      "label": "PER",
+      "text": "冯·诺依曼",
+      "entity_id": "E_PER_VON_NEUMANN",
+      "kb_name": "冯·诺依曼",
+      "kb_type": "PER",
+      "link_score": 0.712804,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2127,
+      "end": 2129,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2147,
+      "end": 2149,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2161,
+      "end": 2163,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2165,
+      "end": 2167,
+      "label": "LOC",
+      "text": "剑桥",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "ORG",
+      "link_score": 0.293846,
+      "source": "regex"
+    },
+    {
+      "start": 2185,
+      "end": 2211,
+      "label": "PROD",
+      "text": "Foundations of mathematics",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PROD",
+      "link_score": 0.333883,
+      "source": "ner"
+    },
+    {
+      "start": 2224,
+      "end": 2226,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2281,
+      "end": 2283,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2284,
+      "end": 2290,
+      "label": "LOC",
+      "text": "布莱切利庄园",
+      "entity_id": "E_LOC_BLETCHLEY",
+      "kb_name": "布莱切利庄园",
+      "kb_type": "LOC",
+      "link_score": 0.698996,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2315,
+      "end": 2325,
+      "label": "PER",
+      "text": "Asa Briggs",
+      "entity_id": "E_PER_ASA",
+      "kb_name": "Asa Briggs",
+      "kb_type": "PER",
+      "link_score": 0.704625,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2342,
+      "end": 2346,
+      "label": "LOC",
+      "text": "布莱切利",
+      "entity_id": "E_LOC_BLETCHLEY",
+      "kb_name": "布莱切利庄园",
+      "kb_type": "LOC",
+      "link_score": 0.698996,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2351,
+      "end": 2353,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2377,
+      "end": 2379,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2380,
+      "end": 2382,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2388,
+      "end": 2397,
+      "label": "ORG",
+      "text": "政府密码和密码学校",
+      "entity_id": "E_ORG_GCCS",
+      "kb_name": "GC&CS",
+      "kb_type": "ORG",
+      "link_score": 0.700364,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2398,
+      "end": 2403,
+      "label": "ORG",
+      "text": "GC&CS",
+      "entity_id": "E_ORG_GCCS",
+      "kb_name": "GC&CS",
+      "kb_type": "ORG",
+      "link_score": 0.700364,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2413,
+      "end": 2418,
+      "label": "ORG",
+      "text": "GC&CS",
+      "entity_id": "E_ORG_GCCS",
+      "kb_name": "GC&CS",
+      "kb_type": "ORG",
+      "link_score": 0.700364,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2423,
+      "end": 2430,
+      "label": "PER",
+      "text": "第利温·诺克斯",
+      "entity_id": "E_PER_NOX",
+      "kb_name": "第利温·诺克斯",
+      "kb_type": "PER",
+      "link_score": 0.693954,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2441,
+      "end": 2448,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2475,
+      "end": 2477,
+      "label": "LOC",
+      "text": "华沙",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PROD",
+      "link_score": 0.099505,
+      "source": "regex"
+    },
+    {
+      "start": 2484,
+      "end": 2486,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2492,
+      "end": 2499,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2512,
+      "end": 2519,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2531,
+      "end": 2533,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2534,
+      "end": 2537,
+      "label": "PER",
+      "text": "诺克斯",
+      "entity_id": "E_PER_NOX",
+      "kb_name": "第利温·诺克斯",
+      "kb_type": "PER",
+      "link_score": 0.693954,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2575,
+      "end": 2577,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2588,
+      "end": 2592,
+      "label": "PROD",
+      "text": "恩尼格玛",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2630,
+      "end": 2632,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2633,
+      "end": 2639,
+      "label": "ORG",
+      "text": "英国皇家海军",
+      "entity_id": "E_ORG_NAVY_UK",
+      "kb_name": "英国皇家海军",
+      "kb_type": "ORG",
+      "link_score": 0.675043,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2644,
+      "end": 2646,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2646,
+      "end": 2650,
+      "label": "ORG",
+      "text": "军情六处",
+      "entity_id": "E_ORG_MI6",
+      "kb_name": "军情六处",
+      "kb_type": "ORG",
+      "link_score": 0.675675,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2689,
+      "end": 2696,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2706,
+      "end": 2710,
+      "label": "ORG",
+      "text": "军情六处",
+      "entity_id": "E_ORG_MI6",
+      "kb_name": "军情六处",
+      "kb_type": "ORG",
+      "link_score": 0.675675,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2728,
+      "end": 2732,
+      "label": "ORG",
+      "text": "军情六处",
+      "entity_id": "E_ORG_MI6",
+      "kb_name": "军情六处",
+      "kb_type": "ORG",
+      "link_score": 0.675675,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2740,
+      "end": 2742,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2791,
+      "end": 2793,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 2825,
+      "end": 2872,
+      "label": "PROD",
+      "text": "The Applications of Probability to Cryptography",
+      "entity_id": "E_PROD_APC",
+      "kb_name": "The Applications of Probability to Cryptography",
+      "kb_type": "PROD",
+      "link_score": 0.752376,
+      "source": "ner"
+    },
+    {
+      "start": 2877,
+      "end": 2911,
+      "label": "PROD",
+      "text": "Paper on Statistics of Repetitions",
+      "entity_id": "E_PROD_PSR",
+      "kb_name": "Paper on Statistics of Repetitions",
+      "kb_type": "PROD",
+      "link_score": 0.749505,
+      "source": "ner"
+    },
+    {
+      "start": 2919,
+      "end": 2924,
+      "label": "ORG",
+      "text": "GC&CS",
+      "entity_id": "E_ORG_GCCS",
+      "kb_name": "GC&CS",
+      "kb_type": "ORG",
+      "link_score": 0.700364,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2930,
+      "end": 2934,
+      "label": "ORG",
+      "text": "GCHQ",
+      "entity_id": "E_ORG_GCHQ",
+      "kb_name": "GCHQ",
+      "kb_type": "ORG",
+      "link_score": 0.722573,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2963,
+      "end": 2965,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 2987,
+      "end": 2991,
+      "label": "ORG",
+      "text": "GCHQ",
+      "entity_id": "E_ORG_GCHQ",
+      "kb_name": "GCHQ",
+      "kb_type": "ORG",
+      "link_score": 0.722573,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3014,
+      "end": 3019,
+      "label": "PROD",
+      "text": "官方保密法",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PROD",
+      "link_score": 0.192859,
+      "source": "input_dict"
+    },
+    {
+      "start": 3157,
+      "end": 3161,
+      "label": "ORG",
+      "text": "GCHQ",
+      "entity_id": "E_ORG_GCHQ",
+      "kb_name": "GCHQ",
+      "kb_type": "ORG",
+      "link_score": 0.722573,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3201,
+      "end": 3203,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 3204,
+      "end": 3210,
+      "label": "LOC",
+      "text": "布莱切利庄园",
+      "entity_id": "E_LOC_BLETCHLEY",
+      "kb_name": "布莱切利庄园",
+      "kb_type": "LOC",
+      "link_score": 0.698996,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3243,
+      "end": 3250,
+      "label": "PROD",
+      "text": "恩尼格玛密码机",
+      "entity_id": "E_PROD_ENIGMA",
+      "kb_name": "恩尼格玛密码机",
+      "kb_type": "PROD",
+      "link_score": 0.699866,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3279,
+      "end": 3291,
+      "label": "PER",
+      "text": "Ronald Lewin",
+      "entity_id": "E_PER_LEWIN",
+      "kb_name": "Ronald Lewin",
+      "kb_type": "PER",
+      "link_score": 0.720785,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3296,
+      "end": 3298,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3468,
+      "end": 3471,
+      "label": "ORG",
+      "text": "小屋8",
+      "entity_id": "E_ORG_HUT8",
+      "kb_name": "Hut 8",
+      "kb_type": "ORG",
+      "link_score": 0.72505,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3473,
+      "end": 3475,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3673,
+      "end": 3675,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3729,
+      "end": 3748,
+      "label": "PROD",
+      "text": "Nova PBS纪录片《解码纳粹秘密》",
+      "entity_id": "E_PROD_DECODE_NAZI",
+      "kb_name": "解码纳粹秘密",
+      "kb_type": "PROD",
+      "link_score": 0.696405,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3765,
+      "end": 3772,
+      "label": "ORG",
+      "text": "在布莱奇利庄园",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "LOC",
+      "link_score": 0.548996,
+      "source": "regex"
+    },
+    {
+      "start": 3777,
+      "end": 3779,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 3820,
+      "end": 3822,
+      "label": "LOC",
+      "text": "伦敦",
+      "entity_id": "E_LOC_LONDON",
+      "kb_name": "伦敦",
+      "kb_type": "LOC",
+      "link_score": 0.67228,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3851,
+      "end": 3853,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 3861,
+      "end": 3863,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3895,
+      "end": 3897,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3901,
+      "end": 3908,
+      "label": "PER",
+      "text": "托马斯·理查兹",
+      "entity_id": "E_PER_RICHARDS",
+      "kb_name": "Thomas Richards",
+      "kb_type": "PER",
+      "link_score": 0.733103,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3909,
+      "end": 3924,
+      "label": "PER",
+      "text": "Thomas Richards",
+      "entity_id": "E_PER_RICHARDS",
+      "kb_name": "Thomas Richards",
+      "kb_type": "PER",
+      "link_score": 0.733103,
+      "source": "kb_dict"
+    },
+    {
+      "start": 3951,
+      "end": 3959,
+      "label": "ORG",
+      "text": "沃尔顿竞技俱乐部",
+      "entity_id": "E_ORG_WAC",
+      "kb_name": "沃尔顿竞技俱乐部",
+      "kb_type": "ORG",
+      "link_score": 0.674897,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4169,
+      "end": 4175,
+      "label": "LOC",
+      "text": "布莱切利庄园",
+      "entity_id": "E_LOC_BLETCHLEY",
+      "kb_name": "布莱切利庄园",
+      "kb_type": "LOC",
+      "link_score": 0.698996,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4193,
+      "end": 4198,
+      "label": "PROD",
+      "text": "官方保密法",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PROD",
+      "link_score": 0.192859,
+      "source": "input_dict"
+    },
+    {
+      "start": 4237,
+      "end": 4239,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4248,
+      "end": 4252,
+      "label": "PER",
+      "text": "乔治六世",
+      "entity_id": "E_PER_GEORGE6",
+      "kb_name": "乔治六世国王",
+      "kb_type": "PER",
+      "link_score": 0.674793,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4257,
+      "end": 4263,
+      "label": "PROD",
+      "text": "大英帝国勋章",
+      "entity_id": "E_PROD_OBE",
+      "kb_name": "大英帝国勋章",
+      "kb_type": "PROD",
+      "link_score": 0.668665,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4264,
+      "end": 4267,
+      "label": "PROD",
+      "text": "OBE",
+      "entity_id": "E_PROD_OBE",
+      "kb_name": "大英帝国勋章",
+      "kb_type": "PROD",
+      "link_score": 0.668665,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4312,
+      "end": 4316,
+      "label": "PROD",
+      "text": "图灵测试",
+      "entity_id": "E_PROD_TT",
+      "kb_name": "图灵测试",
+      "kb_type": "PROD",
+      "link_score": 0.698898,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4319,
+      "end": 4325,
+      "label": "LOC",
+      "text": "布莱切利庄园",
+      "entity_id": "E_LOC_BLETCHLEY",
+      "kb_name": "布莱切利庄园",
+      "kb_type": "LOC",
+      "link_score": 0.698996,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4326,
+      "end": 4328,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4339,
+      "end": 4343,
+      "label": "PROD",
+      "text": "图灵测试",
+      "entity_id": "E_PROD_TT",
+      "kb_name": "图灵测试",
+      "kb_type": "PROD",
+      "link_score": 0.698898,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4356,
+      "end": 4358,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 4359,
+      "end": 4366,
+      "label": "ORG",
+      "text": "国家物理实验室",
+      "entity_id": "E_ORG_NPL",
+      "kb_name": "国家物理实验室",
+      "kb_type": "ORG",
+      "link_score": 0.689773,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4368,
+      "end": 4374,
+      "label": "PROD",
+      "text": "自动计算引擎",
+      "entity_id": "E_PROD_ACE",
+      "kb_name": "ACE",
+      "kb_type": "PROD",
+      "link_score": 0.688417,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4375,
+      "end": 4378,
+      "label": "PROD",
+      "text": "ACE",
+      "entity_id": "E_PROD_ACE",
+      "kb_name": "ACE",
+      "kb_type": "PROD",
+      "link_score": 0.688417,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4394,
+      "end": 4406,
+      "label": "ORG",
+      "text": "曼彻斯特大学计算机实验室",
+      "entity_id": "E_ORG_UOM_CL",
+      "kb_name": "曼彻斯特大学计算机实验室",
+      "kb_type": "ORG",
+      "link_score": 0.708845,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4424,
+      "end": 4430,
+      "label": "PROD",
+      "text": "曼彻斯特一号",
+      "entity_id": "E_PROD_M1",
+      "kb_name": "曼彻斯特一号",
+      "kb_type": "PROD",
+      "link_score": 0.696758,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4458,
+      "end": 4465,
+      "label": "PROD",
+      "text": "计算机器和智能",
+      "entity_id": "E_PROD_CMI",
+      "kb_name": "计算机器和智能",
+      "kb_type": "PROD",
+      "link_score": 0.730368,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4467,
+      "end": 4469,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 4487,
+      "end": 4491,
+      "label": "PROD",
+      "text": "图灵测试",
+      "entity_id": "E_PROD_TT",
+      "kb_name": "图灵测试",
+      "kb_type": "PROD",
+      "link_score": 0.698898,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4526,
+      "end": 4528,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 4609,
+      "end": 4625,
+      "label": "ORG",
+      "text": "新墨西哥州洛斯阿拉莫斯国家实验室",
+      "entity_id": "E_ORG_LANL",
+      "kb_name": "新墨西哥州洛斯阿拉莫斯国家实验室",
+      "kb_type": "ORG",
+      "link_score": 0.706757,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4631,
+      "end": 4633,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4638,
+      "end": 4643,
+      "label": "PROD",
+      "text": "ENIAC",
+      "entity_id": "E_PROD_ENIAC",
+      "kb_name": "ENIAC",
+      "kb_type": "PROD",
+      "link_score": 0.692482,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4664,
+      "end": 4672,
+      "label": "PROD",
+      "text": "洛斯阿拉莫斯象棋",
+      "entity_id": "E_PROD_LA_CHESS",
+      "kb_name": "洛斯阿拉莫斯象棋",
+      "kb_type": "PROD",
+      "link_score": 0.710285,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4700,
+      "end": 4702,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 4730,
+      "end": 4739,
+      "label": "PROD",
+      "text": "形态发生的化学基础",
+      "entity_id": "E_PROD_MORPH",
+      "kb_name": "形态发生的化学基础",
+      "kb_type": "PROD",
+      "link_score": 0.739686,
+      "source": "kb_dict"
+    },
+    {
+      "start": 4744,
+      "end": 4779,
+      "label": "PROD",
+      "text": "The Chemical Basis of Morphogenesis",
+      "entity_id": "E_PROD_MORPH",
+      "kb_name": "形态发生的化学基础",
+      "kb_type": "PROD",
+      "link_score": 0.739686,
+      "source": "ner"
+    },
+    {
+      "start": 4864,
+      "end": 4871,
+      "label": "PROD",
+      "text": "艾伦·图灵选集",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PER",
+      "link_score": 0.608777,
+      "source": "input_dict"
+    },
+    {
+      "start": 4933,
+      "end": 4935,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 4936,
+      "end": 4939,
+      "label": "LOC",
+      "text": "东柴郡",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PROD",
+      "link_score": 0.099505,
+      "source": "regex"
+    },
+    {
+      "start": 4939,
+      "end": 4943,
+      "label": "LOC",
+      "text": "威姆斯洛",
+      "entity_id": null,
+      "kb_name": null,
+      "kb_type": "PER",
+      "link_score": 0.229668,
+      "source": "regex"
+    },
+    {
+      "start": 4956,
+      "end": 4958,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5003,
+      "end": 5005,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5013,
+      "end": 5015,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5158,
+      "end": 5160,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5177,
+      "end": 5179,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 5223,
+      "end": 5240,
+      "label": "PER",
+      "text": "Ethel Sara Stoney",
+      "entity_id": "E_PER_ETHEL",
+      "kb_name": "Ethel Sara Stoney",
+      "kb_type": "PER",
+      "link_score": 0.739556,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5253,
+      "end": 5255,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5318,
+      "end": 5327,
+      "label": "PER",
+      "text": "英国首相戈登·布朗",
+      "entity_id": "E_PER_BROWN",
+      "kb_name": "戈登·布朗",
+      "kb_type": "PER",
+      "link_score": 0.671268,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5329,
+      "end": 5334,
+      "label": "ORG",
+      "text": "每日电讯报",
+      "entity_id": "E_ORG_DT",
+      "kb_name": "每日电讯报",
+      "kb_type": "ORG",
+      "link_score": 0.668726,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5340,
+      "end": 5344,
+      "label": "ORG",
+      "text": "英国政府",
+      "entity_id": "E_ORG_GOV_UK",
+      "kb_name": "英国政府",
+      "kb_type": "ORG",
+      "link_score": 0.679056,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5356,
+      "end": 5358,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5375,
+      "end": 5377,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5415,
+      "end": 5419,
+      "label": "ORG",
+      "text": "英国政府",
+      "entity_id": "E_ORG_GOV_UK",
+      "kb_name": "英国政府",
+      "kb_type": "ORG",
+      "link_score": 0.679056,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5421,
+      "end": 5423,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5436,
+      "end": 5438,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5466,
+      "end": 5468,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5480,
+      "end": 5482,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 5515,
+      "end": 5517,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 5670,
+      "end": 5675,
+      "label": "ORG",
+      "text": "英国司法部",
+      "entity_id": "E_ORG_MOJ_UK",
+      "kb_name": "英国司法部",
+      "kb_type": "ORG",
+      "link_score": 0.673686,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5677,
+      "end": 5679,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5681,
+      "end": 5687,
+      "label": "PER",
+      "text": "伊丽莎白二世",
+      "entity_id": "E_PER_ELIZABETH2",
+      "kb_name": "伊丽莎白二世",
+      "kb_type": "PER",
+      "link_score": 0.67216,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5707,
+      "end": 5709,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5732,
+      "end": 5734,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5771,
+      "end": 5773,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "ner"
+    },
+    {
+      "start": 5777,
+      "end": 5779,
+      "label": "LOC",
+      "text": "英国",
+      "entity_id": "E_LOC_UK",
+      "kb_name": "英国",
+      "kb_type": "LOC",
+      "link_score": 0.671863,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5803,
+      "end": 5807,
+      "label": "ORG",
+      "text": "英国政府",
+      "entity_id": "E_ORG_GOV_UK",
+      "kb_name": "英国政府",
+      "kb_type": "ORG",
+      "link_score": 0.679056,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5817,
+      "end": 5819,
+      "label": "PER",
+      "text": "图灵",
+      "entity_id": "E_PER_TURING",
+      "kb_name": "艾伦·图灵",
+      "kb_type": "PER",
+      "link_score": 0.71711,
+      "source": "kb_dict"
+    },
+    {
+      "start": 5842,
+      "end": 5849,
+      "label": "PROD",
+      "text": "艾伦·图灵法案",
+      "entity_id": "E_PROD_TURING_ACT",
+      "kb_name": "艾伦·图灵法案",
+      "kb_type": "PROD",
+      "link_score": 0.698415,
+      "source": "kb_dict"
+    }
+  ],
+  "entity_nodes": [
+    {
+      "node_id": "E_PER_TURING",
+      "name": "艾伦·图灵",
+      "type": "PER",
+      "link_score": 0.71711
+    },
+    {
+      "node_id": "E_PROD_OBE",
+      "name": "大英帝国勋章",
+      "type": "PROD",
+      "link_score": 0.668665
+    },
+    {
+      "node_id": "E_LOC_UK",
+      "name": "英国",
+      "type": "LOC",
+      "link_score": 0.671863
+    },
+    {
+      "node_id": "E_ORG_HUT8",
+      "name": "Hut 8",
+      "type": "ORG",
+      "link_score": 0.72505
+    },
+    {
+      "node_id": "E_PROD_BOMBE",
+      "name": "Bombe",
+      "type": "PROD",
+      "link_score": 0.712939
+    },
+    {
+      "node_id": "E_PROD_ENIGMA",
+      "name": "恩尼格玛密码机",
+      "type": "PROD",
+      "link_score": 0.699866
+    },
+    {
+      "node_id": "E_PROD_CMI",
+      "name": "计算机器和智能",
+      "type": "PROD",
+      "link_score": 0.730368
+    },
+    {
+      "node_id": "E_PROD_CMT",
+      "name": "机器会思考吗",
+      "type": "PROD",
+      "link_score": 0.719968
+    },
+    {
+      "node_id": "E_PROD_TT",
+      "name": "图灵测试",
+      "type": "PROD",
+      "link_score": 0.698898
+    },
+    {
+      "node_id": "E_PROD_TM",
+      "name": "图灵机",
+      "type": "PROD",
+      "link_score": 0.709511
+    },
+    {
+      "node_id": "E_ORG_GOV_UK",
+      "name": "英国政府",
+      "type": "ORG",
+      "link_score": 0.679056
+    },
+    {
+      "node_id": "E_PER_RICHARDS",
+      "name": "Thomas Richards",
+      "type": "PER",
+      "link_score": 0.733103
+    },
+    {
+      "node_id": "E_PER_JULIUS",
+      "name": "朱利斯·麦席森·图灵",
+      "type": "PER",
+      "link_score": 0.711658
+    },
+    {
+      "node_id": "E_LOC_INDIA",
+      "name": "英属印度",
+      "type": "LOC",
+      "link_score": 0.670654
+    },
+    {
+      "node_id": "E_PER_ETHEL",
+      "name": "Ethel Sara Stoney",
+      "type": "PER",
+      "link_score": 0.739556
+    },
+    {
+      "node_id": "E_LOC_LONDON",
+      "name": "伦敦",
+      "type": "LOC",
+      "link_score": 0.67228
+    },
+    {
+      "node_id": "E_LOC_PADDINGTON",
+      "name": "帕丁顿",
+      "type": "LOC",
+      "link_score": 0.704856
+    },
+    {
+      "node_id": "MENTION::吉尔福德",
+      "name": "吉尔福德",
+      "type": "ORG",
+      "link_score": 0.245332
+    },
+    {
+      "node_id": "E_ORG_ST_MICHAEL",
+      "name": "St. Michael's",
+      "type": "ORG",
+      "link_score": 0.732832
+    },
+    {
+      "node_id": "MENTION::马尔伯勒学院",
+      "name": "马尔伯勒学院",
+      "type": "ORG",
+      "link_score": 0.293846
+    },
+    {
+      "node_id": "E_ORG_SHERBORNE",
+      "name": "舍伯恩学校",
+      "type": "ORG",
+      "link_score": 0.699329
+    },
+    {
+      "node_id": "MENTION::南安普顿",
+      "name": "南安普顿",
+      "type": "ORG",
+      "link_score": 0.297804
+    },
+    {
+      "node_id": "E_PER_EINSTEIN",
+      "name": "阿尔伯特·爱因斯坦",
+      "type": "PER",
+      "link_score": 0.734479
+    },
+    {
+      "node_id": "MENTION::剑桥大学",
+      "name": "剑桥大学",
+      "type": "ORG",
+      "link_score": 0.467179
+    },
+    {
+      "node_id": "E_ORG_CAMBRIDGE_KINGS",
+      "name": "剑桥大学国王学院",
+      "type": "ORG",
+      "link_score": 0.683846
+    },
+    {
+      "node_id": "E_PROD_OCN",
+      "name": "On Computable Numbers",
+      "type": "PROD",
+      "link_score": 0.739101
+    },
+    {
+      "node_id": "E_PER_CHURCH",
+      "name": "阿隆佐·邱奇",
+      "type": "PER",
+      "link_score": 0.720776
+    },
+    {
+      "node_id": "E_ORG_PRINCETON",
+      "name": "普林斯顿大学",
+      "type": "ORG",
+      "link_score": 0.687804
+    },
+    {
+      "node_id": "MENTION::普林斯顿",
+      "name": "普林斯顿",
+      "type": "ORG",
+      "link_score": 0.557804
+    },
+    {
+      "node_id": "E_PER_VON_NEUMANN",
+      "name": "冯·诺依曼",
+      "type": "PER",
+      "link_score": 0.712804
+    },
+    {
+      "node_id": "MENTION::剑桥",
+      "name": "剑桥",
+      "type": "ORG",
+      "link_score": 0.293846
+    },
+    {
+      "node_id": "MENTION::Foundations of mathematics",
+      "name": "Foundations of mathematics",
+      "type": "PROD",
+      "link_score": 0.333883
+    },
+    {
+      "node_id": "E_LOC_BLETCHLEY",
+      "name": "布莱切利庄园",
+      "type": "LOC",
+      "link_score": 0.698996
+    },
+    {
+      "node_id": "E_PER_ASA",
+      "name": "Asa Briggs",
+      "type": "PER",
+      "link_score": 0.704625
+    },
+    {
+      "node_id": "E_ORG_GCCS",
+      "name": "GC&CS",
+      "type": "ORG",
+      "link_score": 0.700364
+    },
+    {
+      "node_id": "E_PER_NOX",
+      "name": "第利温·诺克斯",
+      "type": "PER",
+      "link_score": 0.693954
+    },
+    {
+      "node_id": "MENTION::华沙",
+      "name": "华沙",
+      "type": "PROD",
+      "link_score": 0.099505
+    },
+    {
+      "node_id": "E_ORG_NAVY_UK",
+      "name": "英国皇家海军",
+      "type": "ORG",
+      "link_score": 0.675043
+    },
+    {
+      "node_id": "E_ORG_MI6",
+      "name": "军情六处",
+      "type": "ORG",
+      "link_score": 0.675675
+    },
+    {
+      "node_id": "E_PROD_APC",
+      "name": "The Applications of Probability to Cryptography",
+      "type": "PROD",
+      "link_score": 0.752376
+    },
+    {
+      "node_id": "E_PROD_PSR",
+      "name": "Paper on Statistics of Repetitions",
+      "type": "PROD",
+      "link_score": 0.749505
+    },
+    {
+      "node_id": "E_ORG_GCHQ",
+      "name": "GCHQ",
+      "type": "ORG",
+      "link_score": 0.722573
+    },
+    {
+      "node_id": "MENTION::官方保密法",
+      "name": "官方保密法",
+      "type": "PROD",
+      "link_score": 0.192859
+    },
+    {
+      "node_id": "E_PER_LEWIN",
+      "name": "Ronald Lewin",
+      "type": "PER",
+      "link_score": 0.720785
+    },
+    {
+      "node_id": "E_PROD_DECODE_NAZI",
+      "name": "解码纳粹秘密",
+      "type": "PROD",
+      "link_score": 0.696405
+    },
+    {
+      "node_id": "MENTION::在布莱奇利庄园",
+      "name": "在布莱奇利庄园",
+      "type": "LOC",
+      "link_score": 0.548996
+    },
+    {
+      "node_id": "E_ORG_WAC",
+      "name": "沃尔顿竞技俱乐部",
+      "type": "ORG",
+      "link_score": 0.674897
+    },
+    {
+      "node_id": "E_PER_GEORGE6",
+      "name": "乔治六世国王",
+      "type": "PER",
+      "link_score": 0.674793
+    },
+    {
+      "node_id": "E_ORG_NPL",
+      "name": "国家物理实验室",
+      "type": "ORG",
+      "link_score": 0.689773
+    },
+    {
+      "node_id": "E_PROD_ACE",
+      "name": "ACE",
+      "type": "PROD",
+      "link_score": 0.688417
+    },
+    {
+      "node_id": "E_ORG_UOM_CL",
+      "name": "曼彻斯特大学计算机实验室",
+      "type": "ORG",
+      "link_score": 0.708845
+    },
+    {
+      "node_id": "E_PROD_M1",
+      "name": "曼彻斯特一号",
+      "type": "PROD",
+      "link_score": 0.696758
+    },
+    {
+      "node_id": "E_ORG_LANL",
+      "name": "新墨西哥州洛斯阿拉莫斯国家实验室",
+      "type": "ORG",
+      "link_score": 0.706757
+    },
+    {
+      "node_id": "E_PROD_ENIAC",
+      "name": "ENIAC",
+      "type": "PROD",
+      "link_score": 0.692482
+    },
+    {
+      "node_id": "E_PROD_LA_CHESS",
+      "name": "洛斯阿拉莫斯象棋",
+      "type": "PROD",
+      "link_score": 0.710285
+    },
+    {
+      "node_id": "E_PROD_MORPH",
+      "name": "形态发生的化学基础",
+      "type": "PROD",
+      "link_score": 0.739686
+    },
+    {
+      "node_id": "MENTION::艾伦·图灵选集",
+      "name": "艾伦·图灵选集",
+      "type": "PER",
+      "link_score": 0.608777
+    },
+    {
+      "node_id": "MENTION::东柴郡",
+      "name": "东柴郡",
+      "type": "PROD",
+      "link_score": 0.099505
+    },
+    {
+      "node_id": "MENTION::威姆斯洛",
+      "name": "威姆斯洛",
+      "type": "PER",
+      "link_score": 0.229668
+    },
+    {
+      "node_id": "E_PER_BROWN",
+      "name": "戈登·布朗",
+      "type": "PER",
+      "link_score": 0.671268
+    },
+    {
+      "node_id": "E_ORG_DT",
+      "name": "每日电讯报",
+      "type": "ORG",
+      "link_score": 0.668726
+    },
+    {
+      "node_id": "E_ORG_MOJ_UK",
+      "name": "英国司法部",
+      "type": "ORG",
+      "link_score": 0.673686
+    },
+    {
+      "node_id": "E_PER_ELIZABETH2",
+      "name": "伊丽莎白二世",
+      "type": "PER",
+      "link_score": 0.67216
+    },
+    {
+      "node_id": "E_PROD_TURING_ACT",
+      "name": "艾伦·图灵法案",
+      "type": "PROD",
+      "link_score": 0.698415
+    },
+    {
+      "node_id": "MENTION::计算机科学与人工智能之父",
+      "name": "计算机科学与人工智能之父",
+      "type": "CONCEPT",
+      "link_score": 0.0
+    },
+    {
+      "node_id": "MENTION::德国海军密码分析",
+      "name": "德国海军密码分析",
+      "type": "PROD",
+      "link_score": 0.0
+    }
+  ],
+  "relations": [
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "计算机科学与人工智能之父",
+        "entity_id": ""
+      },
+      "relation_id": "R_REPUTED_AS",
+      "label": "被誉为",
+      "confidence": 0.88,
+      "source": "trigger_window",
+      "surface": "被誉为",
+      "sentence": "艾伦·麦席森·图灵，OBE，FRS（英语：Alan Mathison Turing，又译阿兰·图灵，Turing也常翻译成涂林或者杜林，1912年6月23日—1954年6月7日），英国计算机科学家、数学家、逻辑学家、密码分析学家和理论生物学家，他被誉为计算机科学与人工智能之父。"
+    },
+    {
+      "head": {
+        "text": "Hut 8",
+        "entity_id": "E_ORG_HUT8"
+      },
+      "tail": {
+        "text": "德国海军密码分析",
+        "entity_id": ""
+      },
+      "relation_id": "R_WORKED_ON",
+      "label": "负责研究",
+      "confidence": 0.88,
+      "source": "trigger_window",
+      "surface": "负责",
+      "sentence": "二次世界大战期间，“Hut 8”小组，负责德国海军密码分析。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "Bombe",
+        "entity_id": "E_PROD_BOMBE"
+      },
+      "relation_id": "R_DESIGNED",
+      "label": "设计",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "设计",
+      "sentence": "期间他设计了一些加速破译德国密码的技术，包括改进波兰战前研制的机器Bombe，一种可以找到恩尼格玛密码机设置的机电机器。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "计算机器和智能",
+        "entity_id": "E_PROD_CMI"
+      },
+      "relation_id": "R_WROTE",
+      "label": "撰写",
+      "confidence": 0.95,
+      "source": "trigger_window",
+      "surface": "写过",
+      "sentence": "图灵对于人工智能的发展有诸多贡献，例如图灵曾写过一篇名为《计算机器和智能》的论文，提问“机器会思考吗？"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "机器会思考吗",
+        "entity_id": "E_PROD_CMT"
+      },
+      "relation_id": "R_WROTE",
+      "label": "撰写",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "写过",
+      "sentence": "图灵对于人工智能的发展有诸多贡献，例如图灵曾写过一篇名为《计算机器和智能》的论文，提问“机器会思考吗？"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "图灵机",
+        "entity_id": "E_PROD_TM"
+      },
+      "relation_id": "R_PROPOSED",
+      "label": "提出",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "提出",
+      "sentence": "此外，图灵提出的著名的图灵机模型为现代计算机的逻辑工作方式奠定了基础。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "朱利斯·麦席森·图灵",
+        "entity_id": "E_PER_JULIUS"
+      },
+      "relation_id": "R_FATHER",
+      "label": "父亲",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "父亲",
+      "sentence": "图灵的父亲朱利斯·麦席森·图灵（Julius Mathison Turing）是一名英属印度的公务员。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "Ethel Sara Stoney",
+        "entity_id": "E_PER_ETHEL"
+      },
+      "relation_id": "R_MOTHER",
+      "label": "母亲",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "母亲",
+      "sentence": "1911年，图灵的母亲Ethel Sara Stoney在英属印度怀了孕。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "帕丁顿",
+        "entity_id": "E_LOC_PADDINGTON"
+      },
+      "relation_id": "R_BORN_IN",
+      "label": "出生于",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "出生",
+      "sentence": "因为他们希望艾伦在英国出生，所以回到伦敦，住在帕丁顿，并在那里生下了艾伦。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "St. Michael's",
+        "entity_id": "E_ORG_ST_MICHAEL"
+      },
+      "relation_id": "R_STUDIED_AT",
+      "label": "就读于",
+      "confidence": 0.92,
+      "source": "structured_pattern",
+      "surface": "注册",
+      "sentence": "六岁的时候，他的父母为他在一间叫圣迈克尔（St. Michael's）的日间学校注册。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "舍伯恩学校",
+        "entity_id": "E_ORG_SHERBORNE"
+      },
+      "relation_id": "R_STUDIED_AT",
+      "label": "就读于",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "考入",
+      "sentence": "1926年，他十三岁的时候考入在多塞特郡的舍伯恩学校。"
+    },
+    {
+      "head": {
+        "text": "剑桥大学国王学院",
+        "entity_id": "E_ORG_CAMBRIDGE_KINGS"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_NAMED_AFTER",
+      "label": "以…命名",
+      "confidence": 0.86,
+      "source": "structured_pattern",
+      "surface": "为名",
+      "sentence": "剑桥大学国王学院的电脑房现在以图灵为名"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "剑桥大学国王学院",
+        "entity_id": "E_ORG_CAMBRIDGE_KINGS"
+      },
+      "relation_id": "R_STUDIED_AT",
+      "label": "就读于",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "考入",
+      "sentence": "1931年，图灵考入剑桥大学国王学院攻读本科，并获得了数学一等荣誉。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "剑桥大学国王学院",
+        "entity_id": "E_ORG_CAMBRIDGE_KINGS"
+      },
+      "relation_id": "R_GRADUATED_FROM",
+      "label": "毕业于",
+      "confidence": 0.89,
+      "source": "cross_sentence",
+      "surface": "毕业",
+      "sentence": "1934年他以优异成绩毕业。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "普林斯顿大学",
+        "entity_id": "E_ORG_PRINCETON"
+      },
+      "relation_id": "R_STUDIED_AT",
+      "label": "就读于",
+      "confidence": 0.88,
+      "source": "structured_pattern",
+      "surface": "在...学习",
+      "sentence": "1936年9月到1938年7月间，图灵大部分时间都在普林斯顿大学的教堂下学习，第二年被评选为简·伊丽莎·宝洁奖学金客座教授（Jane Eliza Procter Visiting Fellow）。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "普林斯顿大学",
+        "entity_id": "E_ORG_PRINCETON"
+      },
+      "relation_id": "R_GRADUATED_FROM",
+      "label": "毕业于",
+      "confidence": 0.89,
+      "source": "cross_sentence",
+      "surface": "获...学位",
+      "sentence": "[16]1938年6月，获普林斯顿数学系博士学位；"
+    },
+    {
+      "head": {
+        "text": "冯·诺依曼",
+        "entity_id": "E_PER_VON_NEUMANN"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_INVITED",
+      "label": "聘请",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "聘请",
+      "sentence": "冯·诺依曼有意聘请图灵做他的博士后助理，但他谢绝后又回到了英国。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "GC&CS",
+        "entity_id": "E_ORG_GCCS"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.91,
+      "source": "context_pattern",
+      "surface": "在...工作",
+      "sentence": "从1938年9月起，图灵在英国密码破译组织政府密码和密码学校(GC&CS)兼职工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "恩尼格玛密码机",
+        "entity_id": "E_PROD_ENIGMA"
+      },
+      "relation_id": "R_CRACKED",
+      "label": "破译",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "破译",
+      "sentence": "他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "第利温·诺克斯",
+        "entity_id": "E_PER_NOX"
+      },
+      "relation_id": "R_COLLABORATED_WITH",
+      "label": "合作",
+      "confidence": 0.84,
+      "source": "structured_pattern",
+      "surface": "一起",
+      "sentence": "他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。"
+    },
+    {
+      "head": {
+        "text": "第利温·诺克斯",
+        "entity_id": "E_PER_NOX"
+      },
+      "tail": {
+        "text": "GC&CS",
+        "entity_id": "E_ORG_GCCS"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.86,
+      "source": "structured_pattern",
+      "surface": "ORG_ROLE_PER",
+      "sentence": "他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。"
+    },
+    {
+      "head": {
+        "text": "GC&CS",
+        "entity_id": "E_ORG_GCCS"
+      },
+      "tail": {
+        "text": "恩尼格玛密码机",
+        "entity_id": "E_PROD_ENIGMA"
+      },
+      "relation_id": "R_CRACKED",
+      "label": "破译",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "破译",
+      "sentence": "他与高级GC&CS密码破译员第利温·诺克斯一起专注于对德国使用的恩尼格玛密码机进行密码分析。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "英国皇家海军",
+        "entity_id": "E_ORG_NAVY_UK"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.9,
+      "source": "structured_pattern",
+      "surface": "被...招聘",
+      "sentence": "1939年图灵被英国皇家海军招聘，并在英国军情六处监督下从事对德国机密军事密码的破译工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "军情六处",
+        "entity_id": "E_ORG_MI6"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.91,
+      "source": "context_pattern",
+      "surface": "在...工作",
+      "sentence": "1939年图灵被英国皇家海军招聘，并在英国军情六处监督下从事对德国机密军事密码的破译工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "The Applications of Probability to Cryptography",
+        "entity_id": "E_PROD_APC"
+      },
+      "relation_id": "R_WROTE",
+      "label": "撰写",
+      "confidence": 0.95,
+      "source": "trigger_window",
+      "surface": "写了",
+      "sentence": "他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+    },
+    {
+      "head": {
+        "text": "GCHQ",
+        "entity_id": "E_ORG_GCHQ"
+      },
+      "tail": {
+        "text": "GC&CS",
+        "entity_id": "E_ORG_GCCS"
+      },
+      "relation_id": "R_SUCCESSOR_OF",
+      "label": "继任于",
+      "confidence": 0.88,
+      "source": "structured_pattern",
+      "surface": "继任者",
+      "sentence": "他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "Paper on Statistics of Repetitions",
+        "entity_id": "E_PROD_PSR"
+      },
+      "relation_id": "R_WROTE",
+      "label": "撰写",
+      "confidence": 0.88,
+      "source": "structured_pattern",
+      "surface": "entity_title",
+      "sentence": "他写了两篇有关数学计算方法的论文，题为 The Applications of Probability to Cryptography[25]和Paper on Statistics of Repetitions[26], 对 GC&CS 及其继任者GCHQ具有十分重要的价值，以至于它们直到2012年4月才被发布给英国国家档案馆，也就是他诞辰一百周年前不久。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "大英帝国勋章",
+        "entity_id": "E_PROD_OBE"
+      },
+      "relation_id": "R_AWARDED",
+      "label": "获授",
+      "confidence": 0.93,
+      "source": "structured_pattern",
+      "surface": "被...任命为",
+      "sentence": "[42]因此，尽管图灵在 1946 年被乔治六世国王任命为大英帝国勋章(OBE)，以表彰他在战时的服务，但他的工作多年来一直保密。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "ACE",
+        "entity_id": "E_PROD_ACE"
+      },
+      "relation_id": "R_WORKED_ON",
+      "label": "负责研究",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "负责",
+      "sentence": "1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "国家物理实验室",
+        "entity_id": "E_ORG_NPL"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.91,
+      "source": "context_pattern",
+      "surface": "在...工作",
+      "sentence": "1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。"
+    },
+    {
+      "head": {
+        "text": "国家物理实验室",
+        "entity_id": "E_ORG_NPL"
+      },
+      "tail": {
+        "text": "ACE",
+        "entity_id": "E_PROD_ACE"
+      },
+      "relation_id": "R_WORKED_ON",
+      "label": "负责研究",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "负责",
+      "sentence": "1945年到1948年，图灵在国家物理实验室负责自动计算引擎（ACE）的研究工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "曼彻斯特大学计算机实验室",
+        "entity_id": "E_ORG_UOM_CL"
+      },
+      "relation_id": "R_WORKED_FOR",
+      "label": "任职于",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "成为",
+      "sentence": "1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "曼彻斯特一号",
+        "entity_id": "E_PROD_M1"
+      },
+      "relation_id": "R_WORKED_ON",
+      "label": "负责研究",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "负责",
+      "sentence": "1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。"
+    },
+    {
+      "head": {
+        "text": "曼彻斯特大学计算机实验室",
+        "entity_id": "E_ORG_UOM_CL"
+      },
+      "tail": {
+        "text": "曼彻斯特一号",
+        "entity_id": "E_PROD_M1"
+      },
+      "relation_id": "R_WORKED_ON",
+      "label": "负责研究",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "负责",
+      "sentence": "1949年，他成为曼彻斯特大学计算机实验室的副主任，负责最早的真正的计算机——曼彻斯特一号的软件工作。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "图灵测试",
+        "entity_id": "E_PROD_TT"
+      },
+      "relation_id": "R_PROPOSED",
+      "label": "提出",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "提出",
+      "sentence": "图灵在对人工智能的研究中，提出了一个叫做图灵测试的实验，尝试定出一个决定机器是否有感觉的标准。"
+    },
+    {
+      "head": {
+        "text": "新墨西哥州洛斯阿拉莫斯国家实验室",
+        "entity_id": "E_ORG_LANL"
+      },
+      "tail": {
+        "text": "洛斯阿拉莫斯象棋",
+        "entity_id": "E_PROD_LA_CHESS"
+      },
+      "relation_id": "R_DESIGNED",
+      "label": "设计",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "设计",
+      "sentence": "后来美国新墨西哥州洛斯阿拉莫斯国家实验室的研究组根据图灵的理论，在ENIAC上设计出世界上第一个电脑程序的国际象棋——洛斯阿拉莫斯象棋。"
+    },
+    {
+      "head": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "tail": {
+        "text": "形态发生的化学基础",
+        "entity_id": "E_PROD_MORPH"
+      },
+      "relation_id": "R_PUBLISHED",
+      "label": "发表",
+      "confidence": 0.95,
+      "source": "trigger_window",
+      "surface": "发表",
+      "sentence": "他在1952年发表了一篇论文《形态发生的化学基础》（英语：The Chemical Basis of Morphogenesis）。"
+    },
+    {
+      "head": {
+        "text": "英国政府",
+        "entity_id": "E_ORG_GOV_UK"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_PERSECUTED",
+      "label": "迫害",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "起诉",
+      "sentence": "在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。"
+    },
+    {
+      "head": {
+        "text": "戈登·布朗",
+        "entity_id": "E_PER_BROWN"
+      },
+      "tail": {
+        "text": "每日电讯报",
+        "entity_id": "E_ORG_DT"
+      },
+      "relation_id": "R_WROTE_FOR",
+      "label": "撰文于",
+      "confidence": 0.88,
+      "source": "structured_pattern",
+      "surface": "撰文",
+      "sentence": "在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。"
+    },
+    {
+      "head": {
+        "text": "英国政府",
+        "entity_id": "E_ORG_GOV_UK"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_APOLOGIZED_TO",
+      "label": "公开道歉",
+      "confidence": 0.94,
+      "source": "structured_pattern",
+      "surface": "向...道歉",
+      "sentence": "在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。"
+    },
+    {
+      "head": {
+        "text": "英国政府",
+        "entity_id": "E_ORG_GOV_UK"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_CONVICTED",
+      "label": "定罪",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "定罪",
+      "sentence": "在2009年9月10日，一份超过3万人的请愿签名，使英国首相戈登·布朗在《每日电讯报》撰文，因为英国政府当年以同性恋相关罪名起诉图灵并定罪，让他自杀身亡，正式向艾伦·图灵公开道歉。"
+    },
+    {
+      "head": {
+        "text": "英国司法部",
+        "entity_id": "E_ORG_MOJ_UK"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_PARDONED",
+      "label": "赦免",
+      "confidence": 0.97,
+      "source": "trigger_window",
+      "surface": "赦免",
+      "sentence": "2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。"
+    },
+    {
+      "head": {
+        "text": "伊丽莎白二世",
+        "entity_id": "E_PER_ELIZABETH2"
+      },
+      "tail": {
+        "text": "艾伦·图灵",
+        "entity_id": "E_PER_TURING"
+      },
+      "relation_id": "R_PARDONED",
+      "label": "赦免",
+      "confidence": 0.93,
+      "source": "pattern",
+      "surface": "赦免",
+      "sentence": "2013年12月24日，英国司法部宣布英国女王伊丽莎白二世赦免1952年因同性恋行为被定罪的艾伦·图灵，不过有抗议者指出应将此赦免令范围扩大到所有和图灵同时代且受到同样待遇的同性恋者。"
+    }
+  ],
+  "relation_lexicon": [
+    {
+      "relation_id": "R_REPUTED_AS",
+      "label_zh": "被誉为",
+      "label_en": "REPUTED_AS",
+      "aliases": [
+        "被誉为"
+      ]
+    },
+    {
+      "relation_id": "R_PROPOSED",
+      "label_zh": "提出",
+      "label_en": "PROPOSED",
+      "aliases": [
+        "提出"
+      ]
+    },
+    {
+      "relation_id": "R_DESIGNED",
+      "label_zh": "设计",
+      "label_en": "DESIGNED",
+      "aliases": [
+        "设计",
+        "改进",
+        "建造",
+        "开发",
+        "制作"
+      ]
+    },
+    {
+      "relation_id": "R_WROTE",
+      "label_zh": "撰写",
+      "label_en": "WROTE",
+      "aliases": [
+        "写了",
+        "写过",
+        "题为"
+      ]
+    },
+    {
+      "relation_id": "R_PUBLISHED",
+      "label_zh": "发表",
+      "label_en": "PUBLISHED",
+      "aliases": [
+        "发表",
+        "出版"
+      ]
+    },
+    {
+      "relation_id": "R_STUDIED_AT",
+      "label_zh": "就读于",
+      "label_en": "STUDIED_AT",
+      "aliases": [
+        "考入",
+        "攻读",
+        "注册"
+      ]
+    },
+    {
+      "relation_id": "R_GRADUATED_FROM",
+      "label_zh": "毕业于",
+      "label_en": "GRADUATED_FROM",
+      "aliases": [
+        "毕业",
+        "学位"
+      ]
+    },
+    {
+      "relation_id": "R_WORKED_FOR",
+      "label_zh": "任职于",
+      "label_en": "WORKED_FOR",
+      "aliases": [
+        "兼职工作",
+        "成为",
+        "副主任"
+      ]
+    },
+    {
+      "relation_id": "R_WORKED_ON",
+      "label_zh": "负责研究",
+      "label_en": "WORKED_ON",
+      "aliases": [
+        "负责"
+      ]
+    },
+    {
+      "relation_id": "R_CRACKED",
+      "label_zh": "破译",
+      "label_en": "CRACKED",
+      "aliases": [
+        "破解",
+        "破译",
+        "密码分析"
+      ]
+    },
+    {
+      "relation_id": "R_FATHER",
+      "label_zh": "父亲",
+      "label_en": "FATHER",
+      "aliases": [
+        "父亲"
+      ]
+    },
+    {
+      "relation_id": "R_MOTHER",
+      "label_zh": "母亲",
+      "label_en": "MOTHER",
+      "aliases": [
+        "母亲"
+      ]
+    },
+    {
+      "relation_id": "R_INVITED",
+      "label_zh": "聘请",
+      "label_en": "INVITED",
+      "aliases": [
+        "聘请"
+      ]
+    },
+    {
+      "relation_id": "R_NAMED_AFTER",
+      "label_zh": "以…命名",
+      "label_en": "NAMED_AFTER",
+      "aliases": [
+        "为名"
+      ]
+    },
+    {
+      "relation_id": "R_APOLOGIZED_TO",
+      "label_zh": "公开道歉",
+      "label_en": "APOLOGIZED_TO",
+      "aliases": [
+        "公开道歉",
+        "道歉"
+      ]
+    },
+    {
+      "relation_id": "R_PARDONED",
+      "label_zh": "赦免",
+      "label_en": "PARDONED",
+      "aliases": [
+        "赦免"
+      ]
+    },
+    {
+      "relation_id": "R_PERSECUTED",
+      "label_zh": "迫害",
+      "label_en": "PERSECUTED",
+      "aliases": [
+        "迫害",
+        "起诉"
+      ]
+    },
+    {
+      "relation_id": "R_CONVICTED",
+      "label_zh": "定罪",
+      "label_en": "CONVICTED",
+      "aliases": [
+        "定罪",
+        "被控"
+      ]
+    },
+    {
+      "relation_id": "R_BORN_IN",
+      "label_zh": "出生于",
+      "label_en": "BORN_IN",
+      "aliases": [
+        "出生",
+        "生下"
+      ]
+    },
+    {
+      "relation_id": "R_LIVED_IN",
+      "label_zh": "居住于",
+      "label_en": "LIVED_IN",
+      "aliases": [
+        "住在",
+        "同住"
+      ]
+    },
+    {
+      "relation_id": "R_COLLABORATED_WITH",
+      "label_zh": "合作",
+      "label_en": "COLLABORATED_WITH",
+      "aliases": [
+        "一起",
+        "合作"
+      ]
+    }
+  ]
+}

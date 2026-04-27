@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 from __future__ import annotations
 
 import argparse
@@ -26,7 +26,7 @@ def main() -> None:
     except Exception as exc:
         raise SystemExit(
             "BERT-CRF依赖未就绪（通常是torch环境问题）。"
-            "请先修复PyTorch后再运行该脚本。"
+            f"请先修复环境后再运行。原始错误: {exc!r}"
         ) from exc
 
     train_rows = load_jsonl(args.train)

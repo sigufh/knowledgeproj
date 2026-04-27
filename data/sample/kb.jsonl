@@ -1,12 +1,53 @@
-{"entity_id":"E_PER_MA_YUN","name":"马云","aliases":["Jack Ma"],"type":"PER","description":"阿里巴巴集团创始人，企业家"}
-{"entity_id":"E_ORG_ALIBABA","name":"阿里巴巴集团","aliases":["阿里巴巴","Alibaba"],"type":"ORG","description":"中国互联网公司，总部位于杭州"}
-{"entity_id":"E_ORG_TENCENT","name":"腾讯","aliases":["腾讯公司","Tencent"],"type":"ORG","description":"中国互联网公司，总部位于深圳"}
-{"entity_id":"E_LOC_HANGZHOU","name":"杭州","aliases":["杭州市"],"type":"LOC","description":"中国浙江省省会"}
-{"entity_id":"E_LOC_SHENZHEN","name":"深圳","aliases":["深圳市"],"type":"LOC","description":"中国广东省城市"}
-{"entity_id":"E_ORG_APPLE","name":"苹果公司","aliases":["苹果","Apple"],"type":"ORG","description":"美国科技公司，发布iPhone等产品"}
-{"entity_id":"E_PROD_IPHONE","name":"iPhone","aliases":["苹果手机"],"type":"PROD","description":"苹果公司发布的智能手机产品线"}
-{"entity_id":"E_PER_STEVE_JOBS","name":"史蒂夫·乔布斯","aliases":["乔布斯","Steve Jobs"],"type":"PER","description":"苹果公司联合创始人"}
-{"entity_id":"E_ORG_XIAOMI","name":"小米集团","aliases":["小米"],"type":"ORG","description":"中国科技公司"}
-{"entity_id":"E_PER_LEI_JUN","name":"雷军","aliases":[],"type":"PER","description":"小米集团创始人"}
-{"entity_id":"E_LOC_USA","name":"美国","aliases":["美利坚合众国"],"type":"LOC","description":"北美洲国家"}
-{"entity_id":"E_ORG_TESLA","name":"特斯拉","aliases":["Tesla"],"type":"ORG","description":"美国电动车公司"}
+{"entity_id": "E_LOC_BLETCHLEY", "name": "布莱切利庄园", "aliases": ["布莱切利", "Bletchley Park"], "type": "LOC", "description": "二战英国密码破译中心。"}
+{"entity_id": "E_LOC_INDIA", "name": "英属印度", "aliases": ["印度"], "type": "LOC", "description": "历史地理区域。"}
+{"entity_id": "E_LOC_LONDON", "name": "伦敦", "aliases": [], "type": "LOC", "description": "英国首都。"}
+{"entity_id": "E_LOC_PADDINGTON", "name": "帕丁顿", "aliases": [], "type": "LOC", "description": "伦敦地区地名，图灵出生相关地点。"}
+{"entity_id": "E_LOC_UK", "name": "英国", "aliases": [], "type": "LOC", "description": "欧洲国家。"}
+{"entity_id": "E_ORG_CAMBRIDGE_KINGS", "name": "剑桥大学国王学院", "aliases": ["国王学院"], "type": "ORG", "description": "剑桥大学学院。"}
+{"entity_id": "E_ORG_DT", "name": "每日电讯报", "aliases": [], "type": "ORG", "description": "英国媒体。"}
+{"entity_id": "E_ORG_GCCS", "name": "GC&CS", "aliases": ["政府密码和密码学校"], "type": "ORG", "description": "英国密码破译组织。"}
+{"entity_id": "E_ORG_GCHQ", "name": "GCHQ", "aliases": ["英国政府通信总部"], "type": "ORG", "description": "GC&CS 的继任机构，英国政府通信总部。"}
+{"entity_id": "E_ORG_GOV_UK", "name": "英国政府", "aliases": [], "type": "ORG", "description": "英国政府机构。"}
+{"entity_id": "E_ORG_HUT8", "name": "Hut 8", "aliases": ["小屋8"], "type": "ORG", "description": "图灵二战时期参与的布莱切利密码分析小组。"}
+{"entity_id": "E_ORG_LANL", "name": "新墨西哥州洛斯阿拉莫斯国家实验室", "aliases": ["洛斯阿拉莫斯国家实验室", "Los Alamos National Laboratory"], "type": "ORG", "description": "后续依据图灵理论实现国际象棋程序的研究机构。"}
+{"entity_id": "E_ORG_MI6", "name": "军情六处", "aliases": [], "type": "ORG", "description": "英国情报机构。"}
+{"entity_id": "E_ORG_MOJ_UK", "name": "英国司法部", "aliases": [], "type": "ORG", "description": "英国司法部门。"}
+{"entity_id": "E_ORG_NAVY_UK", "name": "英国皇家海军", "aliases": [], "type": "ORG", "description": "英国海军。"}
+{"entity_id": "E_ORG_NPL", "name": "国家物理实验室", "aliases": [], "type": "ORG", "description": "英国国家研究机构。"}
+{"entity_id": "E_ORG_PM_UK", "name": "英国首相府邸", "aliases": [], "type": "ORG", "description": "英国首相官邸。"}
+{"entity_id": "E_ORG_PRINCETON", "name": "普林斯顿大学", "aliases": [], "type": "ORG", "description": "美国研究型大学。"}
+{"entity_id": "E_ORG_SHERBORNE", "name": "舍伯恩学校", "aliases": ["舍伯恩", "Sherborne School"], "type": "ORG", "description": "图灵少年时期就读学校。"}
+{"entity_id": "E_ORG_ST_MICHAEL", "name": "St. Michael's", "aliases": ["St. Michael", "圣迈克尔"], "type": "ORG", "description": "图灵幼年注册的日间学校。"}
+{"entity_id": "E_ORG_UOM", "name": "曼彻斯特大学", "aliases": [], "type": "ORG", "description": "英国大学。"}
+{"entity_id": "E_ORG_UOM_CL", "name": "曼彻斯特大学计算机实验室", "aliases": ["曼彻斯特计算机实验室", "Manchester Computing Laboratory"], "type": "ORG", "description": "图灵任副主任的计算机实验室。"}
+{"entity_id": "E_ORG_WAC", "name": "沃尔顿竞技俱乐部", "aliases": [], "type": "ORG", "description": "图灵跑步相关俱乐部。"}
+{"entity_id": "E_PER_ASA", "name": "Asa Briggs", "aliases": [], "type": "PER", "description": "历史学家。"}
+{"entity_id": "E_PER_BROWN", "name": "戈登·布朗", "aliases": ["英国首相戈登·布朗"], "type": "PER", "description": "英国前首相。"}
+{"entity_id": "E_PER_CHURCH", "name": "阿隆佐·邱奇", "aliases": ["比阿隆佐·邱奇", "Alonzo Church"], "type": "PER", "description": "逻辑学家，与图灵工作相关。"}
+{"entity_id": "E_PER_EINSTEIN", "name": "阿尔伯特·爱因斯坦", "aliases": ["Albert Einstein", "爱因斯坦"], "type": "PER", "description": "物理学家，图灵少年时期阅读其著作。"}
+{"entity_id": "E_PER_ELIZABETH2", "name": "伊丽莎白二世", "aliases": ["英国女王伊丽莎白二世"], "type": "PER", "description": "英国女王。"}
+{"entity_id": "E_PER_ETHEL", "name": "Ethel Sara Stoney", "aliases": ["图灵的母亲Ethel Sara Stoney"], "type": "PER", "description": "艾伦·图灵的母亲。"}
+{"entity_id": "E_PER_GEORGE6", "name": "乔治六世国王", "aliases": ["乔治六世"], "type": "PER", "description": "英国国王。"}
+{"entity_id": "E_PER_JULIUS", "name": "朱利斯·麦席森·图灵", "aliases": ["Julius Mathison Turing"], "type": "PER", "description": "图灵的父亲。"}
+{"entity_id": "E_PER_LEWIN", "name": "Ronald Lewin", "aliases": [], "type": "PER", "description": "研究布莱切利庄园历史的学者。"}
+{"entity_id": "E_PER_NOX", "name": "第利温·诺克斯", "aliases": ["诺克斯"], "type": "PER", "description": "英国密码破译员。"}
+{"entity_id": "E_PER_RICHARDS", "name": "Thomas Richards", "aliases": ["托马斯·理查兹", "汤姆·理查兹"], "type": "PER", "description": "与图灵长跑成绩对比的人物。"}
+{"entity_id": "E_PER_TURING", "name": "艾伦·图灵", "aliases": ["艾伦·麦席森·图灵", "阿兰·图灵", "图灵", "Alan Mathison Turing"], "type": "PER", "description": "英国数学家、计算机科学先驱。"}
+{"entity_id": "E_PER_VON_NEUMANN", "name": "冯·诺依曼", "aliases": ["John von Neumann", "约翰·冯·诺依曼"], "type": "PER", "description": "数学家，曾考虑聘请图灵做博士后助理。"}
+{"entity_id": "E_PROD_ACE", "name": "ACE", "aliases": ["自动计算引擎"], "type": "PROD", "description": "早期计算机设计项目。"}
+{"entity_id": "E_PROD_APC", "name": "The Applications of Probability to Cryptography", "aliases": [], "type": "PROD", "description": "图灵关于密码分析概率方法的论文。"}
+{"entity_id": "E_PROD_BOMBE", "name": "Bombe", "aliases": ["炸弹机"], "type": "PROD", "description": "用于破译恩尼格玛的机器。"}
+{"entity_id": "E_PROD_CMI", "name": "计算机器和智能", "aliases": ["计算机械和智能", "Computing Machinery and Intelligence"], "type": "PROD", "description": "图灵关于机器智能的重要论文。"}
+{"entity_id": "E_PROD_CMT", "name": "机器会思考吗", "aliases": ["Can Machines Think", "Can Machines Think?"], "type": "PROD", "description": "图灵在机器智能讨论中的经典提问。"}
+{"entity_id": "E_PROD_DECODE_NAZI", "name": "解码纳粹秘密", "aliases": ["Nova PBS纪录片《解码纳粹秘密》"], "type": "PROD", "description": "与图灵相关的纪录片作品。"}
+{"entity_id": "E_PROD_ENIAC", "name": "ENIAC", "aliases": [], "type": "PROD", "description": "早期电子计算机平台。"}
+{"entity_id": "E_PROD_ENIGMA", "name": "恩尼格玛密码机", "aliases": ["恩尼格玛"], "type": "PROD", "description": "德军密码系统。"}
+{"entity_id": "E_PROD_LA_CHESS", "name": "洛斯阿拉莫斯象棋", "aliases": [], "type": "PROD", "description": "在 ENIAC 上实现的早期国际象棋程序。"}
+{"entity_id": "E_PROD_M1", "name": "曼彻斯特一号", "aliases": [], "type": "PROD", "description": "早期电子计算机。"}
+{"entity_id": "E_PROD_MORPH", "name": "形态发生的化学基础", "aliases": ["The Chemical Basis of Morphogenesis"], "type": "PROD", "description": "图灵在数理生物学的重要论文。"}
+{"entity_id": "E_PROD_OBE", "name": "大英帝国勋章", "aliases": ["OBE"], "type": "PROD", "description": "英国荣誉勋章。"}
+{"entity_id": "E_PROD_OCN", "name": "On Computable Numbers", "aliases": ["On Computable Numbers, with an Application to the Entscheidungsproblem"], "type": "PROD", "description": "图灵关于可计算性的经典论文。"}
+{"entity_id": "E_PROD_PSR", "name": "Paper on Statistics of Repetitions", "aliases": [], "type": "PROD", "description": "图灵关于重复统计的密码分析论文。"}
+{"entity_id": "E_PROD_TM", "name": "图灵机", "aliases": [], "type": "PROD", "description": "可计算理论中的抽象模型。"}
+{"entity_id": "E_PROD_TT", "name": "图灵测试", "aliases": [], "type": "PROD", "description": "机器智能判定测试。"}
+{"entity_id": "E_PROD_TURING_ACT", "name": "艾伦·图灵法案", "aliases": ["图灵法案"], "type": "PROD", "description": "英国相关赦免法案。"}
